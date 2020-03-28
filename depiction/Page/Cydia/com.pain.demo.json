@@ -1,0 +1,26 @@
+[
+    {
+        "name": "【【插件名称】】",
+        "head_img": "../../Assets/Image/Default_Head.jpg",
+        "describe": "插件信息",
+        "screenshot": "截图预览",
+        "info_h4": "功能速描",
+        "info_p_describe": "【【插件速描】】",
+        "info_h3":"插件信息",
+        "info_title_1":"开发人员：",
+        "info_text_1":"【【开发人员】】",
+        "info_title_2":"最新版本：",
+        "info_text_2":"【【最新版本】】",
+        "info_title_3":"系统兼容：",
+        "info_text_3":"【【系统兼容】】",
+        "info_title_4":"插件大小：",
+        "info_text_4":"【【插件大小】】",
+        "info_title_5":"最后更新：",
+        "info_text_5":"【【最后更新】】",
+        "info_title_6":"插件类型：",
+        "info_text_6":"【【插件类型】】",
+        "Screenshot_1":"../../depiction/Resource/com.pain.demo/screenshot/1.png",
+        "Screenshot_2":"../../depiction/Resource/com.pain.demo/screenshot/2.png",
+        "Screenshot_3":"../../depiction/Resource/com.pain.demo/screenshot/3.png"
+    }
+]

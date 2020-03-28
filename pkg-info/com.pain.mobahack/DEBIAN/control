@@ -1,0 +1,14 @@
+Architecture: iphoneos-arm
+Package: com.pain.mobahack
+Name: 王者荣耀透视
+Version: 1.0
+Depiction: https://repo.aiyunke.club/depiction/Web/index.html?page=mobahack
+SileoDepiction: https://repo.aiyunke.club/depiction/Page/Sileo/com.pain.mobahack.json
+ModernDepiction: https://repo.aiyunke.club/depiction/Page/Sileo/com.pain.mobahack.json
+Icon: https://repo.aiyunke.club/Assets/Image/Default_Icon.png
+Description: 据说是五竹破解.可能和视距冲突!请自行测试!资源来源网络
+Homepage: https://repo.aiyunke.club/
+Section: Game
+Depends: firmware (>=11)
+Author: Network
+Maintainer: Pain <2398453359@qq.com>

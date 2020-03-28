@@ -1,0 +1,9 @@
+{
+    Filter =     {
+        Bundles =         (
+            "com.tencent.tmgp.pubgmhd",
+            "com.tencent.igce",
+            "com.tencent.ig"
+        );
+    };
+}

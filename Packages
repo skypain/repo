@@ -1,0 +1,79 @@
+Package: com.pain.mobahack
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Pain <2398453359@qq.com>
+Depends: firmware (>=11)
+Filename: ./pkg/com.pain.mobahack.deb
+Size: 324044
+MD5sum: 4a9013e6e18abce61fb8fe794ea30b66
+SHA1: 69377a3ca9d33d7cf118b8c3a3d50dfa9056e898
+SHA256: 233062901c8ab01ab48ee1adf824222e450535073c6bf98db869b8f1c7babf00
+Section: Game
+Homepage: https://repo.aiyunke.club/
+Description: 据说是五竹破解.可能和视距冲突!请自行测试!资源来源网络
+Author: Network
+Depiction: https://repo.aiyunke.club/depiction/Web/index.html?page=mobahack
+Icon: https://repo.aiyunke.club/Assets/Image/Default_Icon.png
+Moderndepiction: https://repo.aiyunke.club/depiction/Page/Sileo/com.pain.mobahack.json
+Name:王者荣耀透视
+Sileodepiction: https://repo.aiyunke.club/depiction/Page/Sileo/com.pain.mobahack.json
+
+Package: com.pain.pubgdos
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Pain <342335257@qq.com>
+Depends: firmware (>=11)
+Filename: ./pkg/com.pain.pubgdos.deb
+Size: 500940
+MD5sum: fe45bbf88c0b647698496bfa585fd23b
+SHA1: 3e02f51a998ffa2a9068f92a75f79736b7e7153d
+SHA256: 0fabcaa4f2cd1e87db55486f77a3cbb39b5e6111cedd0f2880a604f86a61f33b
+Section: Game
+Homepage: https://repo.aiyunke.club/
+Description: Pubg国际服 自瞄无后
+Author: Dos
+Depiction: https://repo.aiyunke.club/depiction/Web/index.html?page=pubgdos
+Icon: https://repo.aiyunke.club/Assets/Image/Default_Icon.png
+Moderndepiction: https://repo.aiyunke.club/depiction/Page/Sileo/com.pain.pubgdos.json
+Name:Pubg Dos
+Sileodepiction: https://repo.aiyunke.club/depiction/Page/Sileo/com.pain.pubgdos.json
+
+Package: com.pain.pubgmodp
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: Pain <342335257@qq.com>
+Depends: firmware (>=11)
+Filename: ./pkg/com.pain.pubgmodp.deb
+Size: 188240
+MD5sum: 27f11dccf36627db2a92f483b255698f
+SHA1: 34c69d0ce51704dfa547f53a1d3a76cff197d20b
+SHA256: 5220d5be59805289aaf8bdc537b3811ffb1e7779fa3d86b259ff78a18f798abe
+Section: Game
+Homepage: https://repo.aiyunke.club/
+Description: Pubg国际服 自瞄无后速降
+Author: ZuwL  
+Depiction: https://repo.aiyunke.club/depiction/Web/index.html?page=pubgmodp
+Icon: https://repo.aiyunke.club/Assets/Image/Default_Icon.png
+Moderndepiction: https://repo.aiyunke.club/depiction/Page/Sileo/com.pain.pubgmodp.json
+Name:Pubg Modp
+Sileodepiction: https://repo.aiyunke.club/depiction/Page/Sileo/com.pain.pubgmodp.json
+
+Package: com.pain.pubgtk
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: Pain <342335257@qq.com>
+Depends: firmware (>=11)
+Filename: ./pkg/com.pain.pubgtk.deb
+Size: 831512
+MD5sum: f54ba7a24ad8e697aa094838188b757a
+SHA1: 80a5dd3a94d02e086b0c2751654f82ff8c5b0ee1
+SHA256: 169e8461f9e989a651ad69c01398a8698f6e2d98bfbd476ceadf7767be553989
+Section: Game
+Homepage: https://repo.aiyunke.club/
+Description: Pubg辅助 滑块黑天透视
+Author: TK
+Depiction: https://repo.aiyunke.club/depiction/Web/index.html?page=pubgtk
+Icon: https://repo.aiyunke.club/Assets/Image/Default_Icon.png
+Moderndepiction: https://repo.aiyunke.club/depiction/Page/Sileo/com.pain.pubgtk.json
+Name:Pubg TK
+Sileodepiction: https://repo.aiyunke.club/depiction/Page/Sileo/com.pain.pubgtk.json

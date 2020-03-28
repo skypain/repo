@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0,user-scalable=no"/>
+	<link href="./Assets/Image/Icon.ico" rel="shortcut icon"/>
+	<title> Pain Individual </title>
+<!-- 资源引入start -->
+<!-- css引入 -->
+	<link rel="stylesheet" href="./Assets/Frame/layui/css/layui.css"  media="all">
+	<link rel="stylesheet" href="./Assets/Frame/Index.css"  media="all">
+<!-- js引入 -->
+	<script src="./Assets/Frame/jquery/jquery-1.12.4.min.js" charset="utf-8"></script>
+	<script src="./Assets/Frame/layui/layui.js" charset="utf-8"></script>
+<!-- 资源引入end -->
+</head>
+<body>
+<div class="layui-fluid layui-anim layui-anim-up">
+<!-- 标题start -->
+	<div>
+		<fieldset class="layui-elem-field layui-field-title fieldset_1">
+			<legend class="legend_1">Pain Individual </legend>
+		</fieldset>
+	</div>
+<!-- 标题end -->
+<!-- 模块start -->
+	<div style="padding: 5px; background-color: #F2F2F2;">
+		<div class="layui-row layui-col-space5">
+			<div class="layui-col-md12 layui-col-lg6 layui-col-xs12 layui-col-sm12">
+				<div class="layui-card">
+					<div class="layui-card-header" style="color: rgb(204, 0, 0);">公告</div>
+					<div class="layui-card-body">
+						<p>欢迎您使用<b> Pain Individual </b>源</p>
+						<p>使用源或使用本站任何插件以及资源将默认同意本站用户协议!</p>
+						<p>本源资源采集于网络.如有侵权请联系本站管理者!</p>
+					</div>
+				</div>
+			</div>
+			<div class="layui-col-md12 layui-col-lg6 layui-col-xs12 layui-col-sm12">
+				<div class="layui-card">
+					<div class="layui-card-header" style="color: rgb(30, 144, 255);">源地址</div>
+					<div class="layui-card-body">
+						<p>URL</p>
+						<p style="color: rgb(204, 0, 0); font-size: 16px; margin-top: 3px"><b>https://repo.aiyunke.club</b></p>
+						<p style="margin-top: 10px">快捷添加</p>
+  <div class="layui-btn-group" style="margin-top: 5px">
+<button type="button" class="layui-btn layui-btn-primary layui-btn-sm" id="Btn_Cydia">Cydia</button>
+<button type="button" class="layui-btn layui-btn-primary layui-btn-sm" id="Btn_Sileo">Sileo</button>
+<button type="button" class="layui-btn layui-btn-primary layui-btn-sm" id="Btn_Zebra">Zebra</button>
+<button type="button" class="layui-btn layui-btn-primary layui-btn-sm" id="Btn_Installer">Installer</button>
+</div>
+					</div>
+				</div>
+			</div>
+			<div class="layui-col-md12 layui-col-lg6 layui-col-xs12 layui-col-sm12">
+				<div class="layui-card">
+					<div class="layui-card-header" style="color: rgb(0, 150, 136);">网站</div>
+					<div class="layui-card-body">
+暂未开放
+					</div>
+				</div>
+			</div>
+			<div class="layui-col-md12 layui-col-lg6 layui-col-xs12 layui-col-sm12">
+				<div class="layui-card">
+					<div class="layui-card-header" style="color: rgb(255, 140, 0);">资源</div>
+					<div class="layui-card-body">
+暂未开放
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+<!-- 模块end -->
+<!-- 版权start -->
+	<div>
+		<fieldset class="layui-elem-field layui-field-title" style="margin-top: 15px;">
+			<legend style="color:rgb(135,135,135); text-align: center; font-weight: bolder; font-size: 10px;">© 2020 Powered by Sky丶Pain</legend>
+		</fieldset>
+	</div>
+<!-- 版权end -->
+</div>
+</body>
+</html>
+<script>
+layui.use(['form', 'layedit', 'laydate','layer'], function(){
+    var form = layui.form
+    ,layer = layui.layer
+    ,layedit = layui.layedit
+    ,laydate = layui.laydate
+    ,layer = layui.layer;
+    //cydia被单击
+    layui.$('#Btn_Cydia').on('click', function(){
+layer.confirm('正在向您的Cydia添加软件源<br>继续操作您将默认同意本站协议<br>请确认是否继续添加', {
+  btn: ['确认','取消'] //按钮
+  ,skin: 'layui-layer-lan'
+}, function(){
+layer.msg('以为您跳转添加本站软件源', {
+    time: 2000, //2s后自动关闭
+  });
+self.location.href='cydia://url/https://cydia.saurik.com/api/share#?source=https://repo.aiyunke.club/';
+}, function(){
+  layer.msg('您取消了添加本站软件源', {
+    time: 1000, //1s后自动关闭
+  });
+});
+});
+
+    //Sileo被单击
+    layui.$('#Btn_Sileo').on('click', function(){
+layer.confirm('正在向您的Sileo添加软件源<br>继续操作您将默认同意本站协议<br>请确认是否继续添加', {
+  btn: ['确认','取消'] //按钮
+  ,skin: 'layui-layer-lan'
+}, function(){
+layer.msg('以为您跳转添加本站软件源', {
+    time: 2000, //2s后自动关闭
+  });
+  self.location.href='sileo://source/https://repo.aiyunke.club/';
+}, function(){
+  layer.msg('您取消了添加本站软件源', {
+    time: 1000, //1s后自动关闭
+  });
+});
+});
+
+    //Zebra被单击
+    layui.$('#Btn_Zebra').on('click', function(){
+layer.confirm('正在向您的Zebra添加软件源<br>继续操作您将默认同意本站协议<br>请确认是否继续添加', {
+  btn: ['确认','取消'] //按钮
+  ,skin: 'layui-layer-lan'
+}, function(){
+layer.msg('以为您跳转添加本站软件源', {
+    time: 2000, //2s后自动关闭
+  });
+  self.location.href='zbra://sources/add/https://repo.aiyunke.club/';
+}, function(){
+  layer.msg('您取消了添加本站软件源', {
+    time: 1000, //1s后自动关闭
+  });
+});
+});
+
+    //Installer被单击
+    layui.$('#Btn_Installer').on('click', function(){
+layer.confirm('正在向您的Installer添加软件源<br>继续操作您将默认同意本站协议<br>请确认是否继续添加', {
+  btn: ['确认','取消'] //按钮
+  ,skin: 'layui-layer-lan'
+}, function(){
+layer.msg('以为您跳转添加本站软件源', {
+    time: 2000, //2s后自动关闭
+  });
+  self.location.href='installer://add/repo=https://repo.aiyunke.club/';
+}, function(){
+  layer.msg('您取消了添加本站软件源', {
+    time: 1000, //1s后自动关闭
+  });
+});
+});
+
+
+});
+</script>
