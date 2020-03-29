@@ -1,0 +1,84 @@
+{
+    "minVersion": "0.1",
+    "headerImage": "https://repo.aiyunke.club/Assets/Image/Default_Head.jpg",
+    "tintColor": "#f4d742",
+    "tabs": [
+        {
+            "tabname": "插件信息",
+            "views": [
+                {
+                    "markdown": "**功能速描**\n\n.由于五竹视距开始时间太长.建议用鲲鹏开视距.五竹透视.资源来源网络.使用本资源所造成的后果一切自负!\n",
+                    "useSpacing": "true",
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "版本信息"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "开发人员:",
+                    "text": "Network"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "最新版本:",
+                    "text": "1.0"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "系统兼容:",
+                    "text": "IOS 11 - 13"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "插件大小:",
+                    "text": "394340 bytes"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "最后更新:",
+                    "text": "2020-03-29 12:04:38"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "插件类型:",
+                    "text": "Tweaks"
+                },
+                {
+                    "class": "DepictionSpacerView"
+                }
+            ],
+            "class": "DepictionStackView"
+        },
+        {
+            "tabname": "截图预览",
+            "views": [
+                {
+                    "class": "DepictionScreenshotsView",
+                    "screenshots": [
+                        {
+                            "url": "https://repo.aiyunke.club/depiction/Resource/com.pain.demo/screenshot/1.png",
+                            "accessibilityText": "Screenshot"
+                        },
+                        {
+                            "url": "https://repo.aiyunke.club/depiction/Resource/com.pain.demo/screenshot/2.png",
+                            "accessibilityText": "Screenshot"
+                        },
+                        {
+                            "url": "https://repo.aiyunke.club/depiction/Resource/com.pain.demo/screenshot/3.png",
+                            "accessibilityText": "Screenshot"
+                        }
+                    ],
+                    "itemCornerRadius": 8,
+                    "itemSize": "{200,200}"
+                }
+            ],
+            "class": "DepictionStackView"
+        }
+    ],
+    "class": "DepictionTabView"
+}
