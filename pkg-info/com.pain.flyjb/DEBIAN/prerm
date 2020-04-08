@@ -1,0 +1,8 @@
+#!/bin/bash
+rm -fr /var/lib/dpkg/info/kr.xsf1re.flyjb.list
+rm -fr /var/lib/dpkg/info/kr.xsf1re.flyjb.md5sums
+echo "[공중제비]파일 삭제 중..."
+rm -f "/Library/MobileSubstrate/DynamicLibraries/FlyJB.dylib" "/Library/MobileSubstrate/DynamicLibraries/FlyJB.plist" &> /dev/null
+echo "[공중제비]이름 변경한 파일들을 원상태로 돌려놓는 중..."
+mv "/Library/MobileSubstrate/DynamicLibraries/ FlyJB.dylib" "/Library/MobileSubstrate/DynamicLibraries/FlyJB.dylib" &> /dev/null
+mv "/Library/MobileSubstrate/DynamicLibraries/ FlyJB.plist" "/Library/MobileSubstrate/DynamicLibraries/FlyJB.plist" &> /dev/null

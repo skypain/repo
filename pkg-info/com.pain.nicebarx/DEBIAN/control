@@ -1,0 +1,14 @@
+Architecture: iphoneos-arm
+Package: com.pain.nicebarx
+Name: NiceBarX
+Version: 2.0.5.2-1
+Depiction: https://repo.aiyunke.club/depiction/Web/index.html?page=nicebarx
+SileoDepiction: https://repo.aiyunke.club/depiction/Page/Sileo/com.pain.nicebarx.json
+ModernDepiction: https://repo.aiyunke.club/depiction/Page/Sileo/com.pain.nicebarx.json
+Icon: https://repo.aiyunke.club/Assets/Image/Default_Icon.png
+Description: 一款强大的状态栏美化和个性化插件，直装破解版
+Homepage: https://repo.aiyunke.club/
+Section: Tweaks
+Depends: firmware (>=11), com.rpetrich.rocketbootstrap
+Author: niceios 
+Maintainer: Pain <342335257@qq.com>

@@ -1,0 +1,14 @@
+Architecture: iphoneos-arm
+Package: com.pain.bolders
+Name: Bolders
+Version: 1.1.1-1
+Depiction: https://repo.aiyunke.club/depiction/Web/index.html?page=bolders
+SileoDepiction: https://repo.aiyunke.club/depiction/Page/Sileo/com.pain.bolders.json
+ModernDepiction: https://repo.aiyunke.club/depiction/Page/Sileo/com.pain.bolders.json
+Icon: https://repo.aiyunke.club/Assets/Image/Default_Icon.png
+Description: 文件夹美化插件
+Homepage: https://repo.aiyunke.club/
+Section: Tweaks
+Depends: firmware (>= 8.0), com.chpwn.iconsupport, preferenceloader
+Author: candoizo 
+Maintainer: Pain <342335257@qq.com>

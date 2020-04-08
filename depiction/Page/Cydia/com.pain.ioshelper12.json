@@ -1,0 +1,26 @@
+[
+    {
+        "name": "iOS Helper 12",
+        "head_img": "../../Assets/Image/Default_Head.jpg",
+        "describe": "插件信息",
+        "screenshot": "截图预览",
+        "info_h4": "功能速描",
+        "info_p_describe": "国内小姐姐ios12军刀",
+        "info_h3":"插件信息",
+        "info_title_1":"开发人员：",
+        "info_text_1":"iBreak ",
+        "info_title_2":"最新版本：",
+        "info_text_2":"2.0",
+        "info_title_3":"系统兼容：",
+        "info_text_3":"IOS 11 - 13",
+        "info_title_4":"插件大小：",
+        "info_text_4":"139604 bytes",
+        "info_title_5":"最后更新：",
+        "info_text_5":"2020-04-08 18:23:37",
+        "info_title_6":"插件类型：",
+        "info_text_6":"Tweaks",
+        "Screenshot_1":"/depiction/Resource/com.pain.ioshelper12/screenshot/1.png",
+        "Screenshot_2":"/depiction/Resource/com.pain.ioshelper12/screenshot/2.png",
+        "Screenshot_3":"/depiction/Resource/com.pain.ioshelper12/screenshot/3.png"
+    }
+]

@@ -1,0 +1,14 @@
+Architecture: iphoneos-arm
+Package: com.pain.flyjb
+Name: FlyJB
+Version: 0.2~beta38
+Depiction: https://repo.aiyunke.club/depiction/Web/index.html?page=flyjb
+SileoDepiction: https://repo.aiyunke.club/depiction/Page/Sileo/com.pain.flyjb.json
+ModernDepiction: https://repo.aiyunke.club/depiction/Page/Sileo/com.pain.flyjb.json
+Icon: https://repo.aiyunke.club/Assets/Image/Default_Icon.png
+Description: 屏蔽越狱检测 
+Homepage: https://repo.aiyunke.club/
+Section: System
+Depends: firmware (>=11), applist, preferenceloader, com.rpetrich.rocketbootstrap, ws.hbang.common
+Author: XsF1re 
+Maintainer: Pain <342335257@qq.com>

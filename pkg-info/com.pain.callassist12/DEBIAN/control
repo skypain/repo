@@ -1,0 +1,14 @@
+Architecture: iphoneos-arm
+Package: com.pain.callassist12
+Name: CallAssist
+Version: 1.9.6
+Depiction: https://repo.aiyunke.club/depiction/Web/index.html?page=callassist12
+SileoDepiction: https://repo.aiyunke.club/depiction/Page/Sileo/com.pain.callassist12.json
+ModernDepiction: https://repo.aiyunke.club/depiction/Page/Sileo/com.pain.callassist12.json
+Icon: https://repo.aiyunke.club/Assets/Image/Default_Icon.png
+Description: 电话助手破解版
+Homepage: https://repo.aiyunke.club/
+Section: Tweaks
+Depends: firmware (>=12)
+Author: xybp888 
+Maintainer: Pain <342335257@qq.com>

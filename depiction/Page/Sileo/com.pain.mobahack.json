@@ -7,7 +7,7 @@
             "tabname": "插件信息",
             "views": [
                 {
-                    "markdown": "**功能速描**\n\n据说是五竹破解.可能和视距冲突!请自行测试!资源来源网络\n",
+                    "markdown": "**功能速描**\n\n王者荣耀视距\n",
                     "useSpacing": "true",
                     "class": "DepictionMarkdownView"
                 },
@@ -36,12 +36,12 @@
                 {
                     "class": "DepictionTableTextView",
                     "title": "插件大小:",
-                    "text": "324044 bytes"
+                    "text": "242216 bytes"
                 },
                 {
                     "class": "DepictionTableTextView",
                     "title": "最后更新:",
-                    "text": "2020-03-29 02:06:13"
+                    "text": "2020-04-08 18:23:37"
                 },
                 {
                     "class": "DepictionTableTextView",

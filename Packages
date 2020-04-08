@@ -1,42 +1,162 @@
+Package: com.pain.bolders
+Version: 1.1.1-1
+Architecture: iphoneos-arm
+Maintainer: Pain <342335257@qq.com>
+Depends: firmware (>= 8.0), com.chpwn.iconsupport, preferenceloader
+Filename: ./pkg/com.pain.bolders.deb
+Size: 46232
+MD5sum: 7073d55cce47c8f63af0408384a0aa90
+SHA1: cf25a6a81263d852117ecf18eaddb835f86aaba8
+SHA256: b43a52a36998158969e24926abbc91456dd474d6a7e61e7ec5dd05258a98c9e0
+Section: Tweaks
+Homepage: https://repo.aiyunke.club/
+Description: 文件夹美化插件
+Author: candoizo 
+Depiction: https://repo.aiyunke.club/depiction/Web/index.html?page=bolders
+Icon: https://repo.aiyunke.club/Assets/Image/Default_Icon.png
+Moderndepiction: https://repo.aiyunke.club/depiction/Page/Sileo/com.pain.bolders.json
+Name:Bolders
+Sileodepiction: https://repo.aiyunke.club/depiction/Page/Sileo/com.pain.bolders.json
+
+Package: com.pain.callassist12
+Version: 1.9.6
+Architecture: iphoneos-arm
+Maintainer: Pain <342335257@qq.com>
+Depends: firmware (>=12)
+Filename: ./pkg/com.pain.callassist12.deb
+Size: 357324
+MD5sum: 24760f9f7e9fc95669bfb64cd66aeeea
+SHA1: bf243379fbf838043df6835d7521fd5832ab24a0
+SHA256: 51a940338f04b3411c21fd5cb38b628e2c440da5296494c5b4335a8cddf5bb60
+Section: Tweaks
+Homepage: https://repo.aiyunke.club/
+Description: 电话助手破解版
+Author: xybp888 
+Depiction: https://repo.aiyunke.club/depiction/Web/index.html?page=callassist12
+Icon: https://repo.aiyunke.club/Assets/Image/Default_Icon.png
+Moderndepiction: https://repo.aiyunke.club/depiction/Page/Sileo/com.pain.callassist12.json
+Name:CallAssist
+Sileodepiction: https://repo.aiyunke.club/depiction/Page/Sileo/com.pain.callassist12.json
+
+Package: com.pain.crack-it
+Version: 2.2.4
+Architecture: iphoneos-arm
+Maintainer: Pain <342335257@qq.com>
+Depends: firmware (>=11)
+Filename: ./pkg/com.pain.crack-it.deb
+Size: 221544
+MD5sum: 214ae8b119598bf6dcfeffd4b12f11f1
+SHA1: 99964b7c7e16d116ec0212b2a7cd51f760fb1876
+SHA256: 126b47c3844f1e9f1c95ed5970ab9c8ce6d25dd3eccf082170bc239b5c6acc3c
+Section: Tweaks
+Homepage: https://repo.aiyunke.club/
+Description: lenglengyu的Crack It插件破解
+Author: lenglengyu 
+Depiction: https://repo.aiyunke.club/depiction/Web/index.html?page=crack-it
+Icon: https://repo.aiyunke.club/Assets/Image/Default_Icon.png
+Moderndepiction: https://repo.aiyunke.club/depiction/Page/Sileo/com.pain.crack-it.json
+Name:Crack It
+Sileodepiction: https://repo.aiyunke.club/depiction/Page/Sileo/com.pain.crack-it.json
+
+Package: com.pain.flyjb
+Version: 0.2~beta38
+Architecture: iphoneos-arm
+Maintainer: Pain <342335257@qq.com>
+Depends: firmware (>=11), applist, preferenceloader, com.rpetrich.rocketbootstrap, ws.hbang.common
+Filename: ./pkg/com.pain.flyjb.deb
+Size: 395340
+MD5sum: 44a546e2d1f81357158eac7e3938416c
+SHA1: f8a31348978cc8a79f26cd04a086f45d3df2e324
+SHA256: 70914ce67ba69b85932b8d74d6f603cb8ff644df4588a1f41c3e83a04da4b2c6
+Section: System
+Homepage: https://repo.aiyunke.club/
+Description: 屏蔽越狱检测 
+Author: XsF1re 
+Depiction: https://repo.aiyunke.club/depiction/Web/index.html?page=flyjb
+Icon: https://repo.aiyunke.club/Assets/Image/Default_Icon.png
+Moderndepiction: https://repo.aiyunke.club/depiction/Page/Sileo/com.pain.flyjb.json
+Name:FlyJB
+Sileodepiction: https://repo.aiyunke.club/depiction/Page/Sileo/com.pain.flyjb.json
+
+Package: com.pain.homegesture
+Version: 2.0.2
+Architecture: iphoneos-arm
+Maintainer: Pain <342335257@qq.com>
+Depends: firmware (>=11)
+Filename: ./pkg/com.pain.homegesture.deb
+Size: 83620
+MD5sum: 6afb0af22653ebe3d575601865cc2952
+SHA1: b7c1c37cc872c4a44201a8f0d9762791942e3387
+SHA256: c90e2a0e0ed789c8e287f4743703da6e04f67e3dd421f94f368c877491edbe8d
+Section: System
+Homepage: https://repo.aiyunke.club/
+Description: HomeGesture修复微信语音bug,相机退出BUG，带设置开关，修复iOS12控制中心奔溃,X状态栏
+Author: zlxdike 
+Depiction: https://repo.aiyunke.club/depiction/Web/index.html?page=homegesture
+Icon: https://repo.aiyunke.club/Assets/Image/Default_Icon.png
+Moderndepiction: https://repo.aiyunke.club/depiction/Page/Sileo/com.pain.homegesture.json
+Name:HomeGesture
+Sileodepiction: https://repo.aiyunke.club/depiction/Page/Sileo/com.pain.homegesture.json
+
+Package: com.pain.ioshelper12
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: Pain <342335257@qq.com>
+Depends: firmware (>=12)
+Filename: ./pkg/com.pain.ioshelper12.deb
+Size: 139604
+MD5sum: 7e55ecf81f5d9567e951fa388399c053
+SHA1: dd556ddca9b77fa809ff2535f6558947ebcf93b1
+SHA256: 16a80ba1ffde07cd19692066bb2b471814aab3cc3610a48d2d7923902ef6c3d7
+Section: Tweaks
+Homepage: https://repo.aiyunke.club/
+Description: 国内小姐姐ios12军刀
+Author: iBreak 
+Depiction: https://repo.aiyunke.club/depiction/Web/index.html?page=ioshelper12
+Icon: https://repo.aiyunke.club/Assets/Image/Default_Icon.png
+Moderndepiction: https://repo.aiyunke.club/depiction/Page/Sileo/com.pain.ioshelper12.json
+Name:iOS Helper 12
+Sileodepiction: https://repo.aiyunke.club/depiction/Page/Sileo/com.pain.ioshelper12.json
+
 Package: com.pain.mobahack
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Pain <2398453359@qq.com>
 Depends: firmware (>=11)
 Filename: ./pkg/com.pain.mobahack.deb
-Size: 324044
-MD5sum: 4a9013e6e18abce61fb8fe794ea30b66
-SHA1: 69377a3ca9d33d7cf118b8c3a3d50dfa9056e898
-SHA256: 233062901c8ab01ab48ee1adf824222e450535073c6bf98db869b8f1c7babf00
+Size: 242216
+MD5sum: 7803e7e6ec7c5e4b1b0832ae402a9885
+SHA1: 7071cfb72f8a1cd54e5ee85b5760772eeed6c47c
+SHA256: ae7d77ccea3395d01b932d8b5b695284610533307e5719a7f439bbeb14f54e60
 Section: Game
 Homepage: https://repo.aiyunke.club/
-Description: 据说是五竹破解.可能和视距冲突!请自行测试!资源来源网络
+Description: 王者荣耀视距
 Author: Network
 Depiction: https://repo.aiyunke.club/depiction/Web/index.html?page=mobahack
 Icon: https://repo.aiyunke.club/Assets/Image/Default_Icon.png
 Moderndepiction: https://repo.aiyunke.club/depiction/Page/Sileo/com.pain.mobahack.json
-Name:王者荣耀透视
+Name:Arena Of Valor KP
 Sileodepiction: https://repo.aiyunke.club/depiction/Page/Sileo/com.pain.mobahack.json
 
-Package: com.pain.mobahack1
-Version: 1.0
+Package: com.pain.nicebarx
+Version: 2.0.5.2-1
 Architecture: iphoneos-arm
-Maintainer: Pain <2398453359@qq.com>
-Depends: firmware (>=11)
-Filename: ./pkg/com.pain.mobahack1.deb
-Size: 394340
-MD5sum: e030f9c5a2fc8680d00ce8973cc06b3b
-SHA1: 66a126bc30a9c0cc926df95b24dca8631279f9be
-SHA256: 268e94d39e1f199b1ca41df36306daf2a34af5b4bbdbe9429eff592d989b6e48
-Section: Game
+Maintainer: Pain <342335257@qq.com>
+Depends: firmware (>=11), com.rpetrich.rocketbootstrap
+Filename: ./pkg/com.pain.nicebarx.deb
+Size: 1053984
+MD5sum: 0b725fb53d6d0b24c966630c1e717e83
+SHA1: 823f5a8dff07eceb13e6d100ba94877f5ffb6a4d
+SHA256: 95b38db14cb9afe83af690cad44b657e27a887b2af0db8e576d0db8f05d1e752
+Section: Tweaks
 Homepage: https://repo.aiyunke.club/
-Description: 据说是五竹破解.由于五竹视距开始时间太长.建议用鲲鹏开视距.五竹透视.资源来源网络.使用本资源所造成的后果一切自负!
-Author: Network
-Depiction: https://repo.aiyunke.club/depiction/Web/index.html?page=mobahack1
+Description: 一款强大的状态栏美化和个性化插件，直装破解版
+Author: niceios 
+Depiction: https://repo.aiyunke.club/depiction/Web/index.html?page=nicebarx
 Icon: https://repo.aiyunke.club/Assets/Image/Default_Icon.png
-Moderndepiction: https://repo.aiyunke.club/depiction/Page/Sileo/com.pain.mobahack1.json
-Name:王者荣耀 鲲鹏+五竹
-Sileodepiction: https://repo.aiyunke.club/depiction/Page/Sileo/com.pain.mobahack1.json
+Moderndepiction: https://repo.aiyunke.club/depiction/Page/Sileo/com.pain.nicebarx.json
+Name:NiceBarX
+Sileodepiction: https://repo.aiyunke.club/depiction/Page/Sileo/com.pain.nicebarx.json
 
 Package: com.pain.pubgdos
 Version: 1.0
@@ -97,3 +217,63 @@ Icon: https://repo.aiyunke.club/Assets/Image/Default_Icon.png
 Moderndepiction: https://repo.aiyunke.club/depiction/Page/Sileo/com.pain.pubgtk.json
 Name:Pubg TK
 Sileodepiction: https://repo.aiyunke.club/depiction/Page/Sileo/com.pain.pubgtk.json
+
+Package: com.pain.supervip
+Version: 1.7.2
+Architecture: iphoneos-arm
+Maintainer: Pain <342335257@qq.com>
+Depends: firmware (>=11)
+Filename: ./pkg/com.pain.supervip.deb
+Size: 376788
+MD5sum: 7d339513d7a776bca897fb8bb7babf37
+SHA1: cd8b9bfa5a12d446b75d8d6f24fbde02d19a2ada
+SHA256: 8baf6cfa6824c98cc259a05af15a9e3ec5ee0e5d6d5515b06c99c2146f4ea9e7
+Section: Tweaks
+Homepage: https://repo.aiyunke.club/
+Description: lenglengyu的Super VIP插件破解
+Author: lenglengyu 
+Depiction: https://repo.aiyunke.club/depiction/Web/index.html?page=supervip
+Icon: https://repo.aiyunke.club/Assets/Image/Default_Icon.png
+Moderndepiction: https://repo.aiyunke.club/depiction/Page/Sileo/com.pain.supervip.json
+Name:Super VIP
+Sileodepiction: https://repo.aiyunke.club/depiction/Page/Sileo/com.pain.supervip.json
+
+Package: com.pain.sylph
+Version: 1.3~Beta1
+Architecture: iphoneos-arm
+Maintainer: Pain <342335257@qq.com>
+Depends: firmware (>=11), ch.mdaus.utils (>= 0.0.4)
+Filename: ./pkg/com.pain.sylph.deb
+Size: 72324
+MD5sum: 68f5cc730a1f9164bb13a413f126c9c3
+SHA1: 40950b17c5bbd71a891ce625a221284d0c17a7c4
+SHA256: 59f7891a79d01e47ec2073b29a9d22c92adaf606fa84cf789462fd70910aadeb
+Section: Tweaks
+Homepage: https://repo.aiyunke.club/
+Description: 锁屏音乐调整 
+Author: Max Dausch  
+Depiction: https://repo.aiyunke.club/depiction/Web/index.html?page=sylph
+Icon: https://repo.aiyunke.club/Assets/Image/Default_Icon.png
+Moderndepiction: https://repo.aiyunke.club/depiction/Page/Sileo/com.pain.sylph.json
+Name:Sylph
+Sileodepiction: https://repo.aiyunke.club/depiction/Page/Sileo/com.pain.sylph.json
+
+Package: com.pain.videohelper
+Version: 3.0
+Architecture: iphoneos-arm
+Maintainer: Pain <342335257@qq.com>
+Depends: firmware (>=11)
+Filename: ./pkg/com.pain.videohelper.deb
+Size: 131688
+MD5sum: 64342a7d9661a7ca5c6bf98dd6bce6cb
+SHA1: 8b4eb53420589edd11db52d4f9e54a117d595d1c
+SHA256: f903334b985a9994c068c1bd224ea4cada933eb3052aab30f1a2980a886ad50c
+Section: Tweaks
+Homepage: https://repo.aiyunke.club/
+Description: 主流视频网站去广告去水印
+Author: iBreak 
+Depiction: https://repo.aiyunke.club/depiction/Web/index.html?page=videohelper
+Icon: https://repo.aiyunke.club/Assets/Image/Default_Icon.png
+Moderndepiction: https://repo.aiyunke.club/depiction/Page/Sileo/com.pain.videohelper.json
+Name:Video Helper
+Sileodepiction: https://repo.aiyunke.club/depiction/Page/Sileo/com.pain.videohelper.json

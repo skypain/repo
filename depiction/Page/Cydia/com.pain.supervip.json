@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Super VIP",
+        "head_img": "../../Assets/Image/Default_Head.jpg",
+        "describe": "插件信息",
+        "screenshot": "截图预览",
+        "info_h4": "功能速描",
+        "info_p_describe": "lenglengyu的Super VIP插件破解",
+        "info_h3":"插件信息",
+        "info_title_1":"开发人员：",
+        "info_text_1":"lenglengyu ",
+        "info_title_2":"最新版本：",
+        "info_text_2":"1.7.2",
+        "info_title_3":"系统兼容：",
+        "info_text_3":"IOS 11 - 13",
+        "info_title_4":"插件大小：",
+        "info_text_4":"376788 bytes",
+        "info_title_5":"最后更新：",
+        "info_text_5":"2020-04-08 18:23:38",
+        "info_title_6":"插件类型：",
+        "info_text_6":"Tweaks",
+        "Screenshot_1":"../../depiction/Resource/com.pain.demo/screenshot/1.png",
+        "Screenshot_2":"../../depiction/Resource/com.pain.demo/screenshot/2.png",
+        "Screenshot_3":"../../depiction/Resource/com.pain.demo/screenshot/3.png"
+    }
+]
