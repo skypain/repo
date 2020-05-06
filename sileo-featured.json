@@ -4,8 +4,8 @@
     "itemCornerRadius": 8,
     "banners": [
         {
-            "package": "com.Pain.Crack It",
-            "title": "Crack It",
+            "package": "com.Pain.Crack-It",
+            "title": "Crack-It",
             "url": "https://repo.aiyunke.club/Assets/Image/Default_Head.jpg",
             "hideShadow": "false"
         }
