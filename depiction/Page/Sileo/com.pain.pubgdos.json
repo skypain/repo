@@ -1,13 +1,13 @@
 {
     "minVersion": "0.1",
-    "headerImage": "https://repo.aiyunke.club/Assets/Image/Default_Head.jpg",
+    "headerImage": "https://repo.aiyunke.club/depiction/Resource/com.pain.pubgdos/banner.png",
     "tintColor": "#f4d742",
     "tabs": [
         {
             "tabname": "插件信息",
             "views": [
                 {
-                    "markdown": "**功能速描**\n\nPubg国际服 自瞄无后\n",
+                    "markdown": "**功能速描**\n\n Pubg国际服 自瞄无后\n",
                     "useSpacing": "true",
                     "class": "DepictionMarkdownView"
                 },
@@ -21,12 +21,12 @@
                 {
                     "class": "DepictionTableTextView",
                     "title": "开发人员:",
-                    "text": "Dos"
+                    "text": " Dos"
                 },
                 {
                     "class": "DepictionTableTextView",
                     "title": "最新版本:",
-                    "text": "1.0"
+                    "text": " 1.0"
                 },
                 {
                     "class": "DepictionTableTextView",
@@ -36,17 +36,17 @@
                 {
                     "class": "DepictionTableTextView",
                     "title": "插件大小:",
-                    "text": "500940 bytes"
+                    "text": " 500940"
                 },
                 {
                     "class": "DepictionTableTextView",
                     "title": "最后更新:",
-                    "text": "2020-04-08 18:23:37"
+                    "text": "2020-03-26 12:08:06"
                 },
                 {
                     "class": "DepictionTableTextView",
                     "title": "插件类型:",
-                    "text": "Tweaks"
+                    "text": " Game"
                 },
                 {
                     "class": "DepictionSpacerView"
@@ -61,15 +61,15 @@
                     "class": "DepictionScreenshotsView",
                     "screenshots": [
                         {
-                            "url": "https://repo.aiyunke.club/depiction/Resource/com.pain.demo/screenshot/1.png",
+                            "url": "https://repo.aiyunke.club/depiction/Resource/com.pain.pubgdos/screenshot/1.png",
                             "accessibilityText": "Screenshot"
                         },
                         {
-                            "url": "https://repo.aiyunke.club/depiction/Resource/com.pain.demo/screenshot/2.png",
+                            "url": "https://repo.aiyunke.club/depiction/Resource/com.pain.pubgdos/screenshot/2.png",
                             "accessibilityText": "Screenshot"
                         },
                         {
-                            "url": "https://repo.aiyunke.club/depiction/Resource/com.pain.demo/screenshot/3.png",
+                            "url": "https://repo.aiyunke.club/depiction/Resource/com.pain.pubgdos/screenshot/3.png",
                             "accessibilityText": "Screenshot"
                         }
                     ],

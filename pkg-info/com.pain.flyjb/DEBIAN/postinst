@@ -1,9 +1,0 @@
-#!/bin/bash
-touch /var/lib/dpkg/info/kr.xsf1re.flyjb.list
-touch /var/lib/dpkg/info/kr.xsf1re.flyjb.md5sums
-echo "[공중제비]오래된 파일 삭제 중..."
-rm -f "/Library/MobileSubstrate/DynamicLibraries/ FlyJB.dylib" "/Library/MobileSubstrate/DynamicLibraries/ FlyJB.plist" &> /dev/null
-echo "[공중제비]다른 트윅보다 먼저 로드될 수 있도록 이름을 변경하는 중..."
-mv "/Library/MobileSubstrate/DynamicLibraries/FlyJB.dylib" "/Library/MobileSubstrate/DynamicLibraries/ FlyJB.dylib" &> /dev/null
-mv "/Library/MobileSubstrate/DynamicLibraries/FlyJB.plist" "/Library/MobileSubstrate/DynamicLibraries/ FlyJB.plist" &> /dev/null
-echo "[공중제비]설치 완료...! 베타테스터가 되신 것을 환영합니다."

@@ -1,13 +1,13 @@
 {
     "minVersion": "0.1",
-    "headerImage": "https://repo.aiyunke.club/Assets/Image/Default_Head.jpg",
+    "headerImage": "https://repo.aiyunke.club/depiction/Resource/com.pain.videohelper/banner.png",
     "tintColor": "#f4d742",
     "tabs": [
         {
             "tabname": "插件信息",
             "views": [
                 {
-                    "markdown": "**功能速描**\n\n主流视频网站去广告去水印\n",
+                    "markdown": "**功能速描**\n\n 主流视频网站去广告去水印\n",
                     "useSpacing": "true",
                     "class": "DepictionMarkdownView"
                 },
@@ -21,12 +21,12 @@
                 {
                     "class": "DepictionTableTextView",
                     "title": "开发人员:",
-                    "text": "iBreak "
+                    "text": " iBreak"
                 },
                 {
                     "class": "DepictionTableTextView",
                     "title": "最新版本:",
-                    "text": "3.0"
+                    "text": " 3.0"
                 },
                 {
                     "class": "DepictionTableTextView",
@@ -36,17 +36,17 @@
                 {
                     "class": "DepictionTableTextView",
                     "title": "插件大小:",
-                    "text": "131688 bytes"
+                    "text": " 131688"
                 },
                 {
                     "class": "DepictionTableTextView",
                     "title": "最后更新:",
-                    "text": "2020-04-08 18:23:38"
+                    "text": "2020-03-25 10:50:15"
                 },
                 {
                     "class": "DepictionTableTextView",
                     "title": "插件类型:",
-                    "text": "Tweaks"
+                    "text": " Tweaks"
                 },
                 {
                     "class": "DepictionSpacerView"

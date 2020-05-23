@@ -1,13 +1,13 @@
 {
     "minVersion": "0.1",
-    "headerImage": "https://repo.aiyunke.club/Assets/Image/Default_Head.jpg",
+    "headerImage": "https://repo.aiyunke.club/depiction/Resource/com.pain.crack-it/banner.png",
     "tintColor": "#f4d742",
     "tabs": [
         {
             "tabname": "插件信息",
             "views": [
                 {
-                    "markdown": "**功能速描**\n\nlenglengyu的Crack It插件破解\n",
+                    "markdown": "**功能速描**\n\n lenglengyu的Crack It插件破解\n",
                     "useSpacing": "true",
                     "class": "DepictionMarkdownView"
                 },
@@ -21,12 +21,12 @@
                 {
                     "class": "DepictionTableTextView",
                     "title": "开发人员:",
-                    "text": "lenglengyu "
+                    "text": " lenglengyu"
                 },
                 {
                     "class": "DepictionTableTextView",
                     "title": "最新版本:",
-                    "text": "2.2.4"
+                    "text": " 2.2.4"
                 },
                 {
                     "class": "DepictionTableTextView",
@@ -36,17 +36,17 @@
                 {
                     "class": "DepictionTableTextView",
                     "title": "插件大小:",
-                    "text": "221544 bytes"
+                    "text": " 221544"
                 },
                 {
                     "class": "DepictionTableTextView",
                     "title": "最后更新:",
-                    "text": "2020-04-08 18:23:37"
+                    "text": "2020-03-25 11:13:36"
                 },
                 {
                     "class": "DepictionTableTextView",
                     "title": "插件类型:",
-                    "text": "Tweaks"
+                    "text": " Tweaks"
                 },
                 {
                     "class": "DepictionSpacerView"
@@ -65,11 +65,11 @@
                             "accessibilityText": "Screenshot"
                         },
                         {
-                            "url": "https://repo.aiyunke.club/depiction/Resource/com.pain.demo/screenshot/2.png",
+                            "url": "https://repo.aiyunke.club/depiction/Resource/com.pain.crack-it/screenshot/2.png",
                             "accessibilityText": "Screenshot"
                         },
                         {
-                            "url": "https://repo.aiyunke.club/depiction/Resource/com.pain.demo/screenshot/3.png",
+                            "url": "https://repo.aiyunke.club/depiction/Resource/com.pain.crack-it/screenshot/3.png",
                             "accessibilityText": "Screenshot"
                         }
                     ],
