@@ -73,13 +73,12 @@
 <script>
     var name = getQueryVariable("page");
     if (name == "false") {
-        //location.href = "../../404.html";
+        location.href = "../../404.html";
     }
     Loading("pain",name)
  var edition = $('#info-text-3').text();
  var consequence = edition.match(/\d+(\.\d+\.\d+|\.\d+|\d+|)/g);
     compatible(consequence[0], consequence[1], "IOS " + consequence[0] + " - " + consequence[1]);
     externalize();
-alert(consequence[1]);
 </script>
 </html>
