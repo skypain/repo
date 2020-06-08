@@ -53,6 +53,10 @@ function Loading(source,name) {
         beforeSend: function () { }, //请求发送前回调,常用验证
         success: function (response) {  //请求成功回调
             var json = response[0];
+			var edition = json.info_text_3;
+			var consequence = edition.match(/\d+(\.\d+\.\d+|\.\d+|\d+|)/g);
+    		compatible(consequence[0], consequence[1], "IOS " + consequence[0] + " - " + consequence[1]);
+    		externalize();
             $("title").html(json.name);
             $('#describe').html(json.describe);
             $('#screenshot').html(json.screenshot);
@@ -86,6 +90,8 @@ function Loading(source,name) {
                 location.href = "../../404.html";
             }
         },
-        complete: function () { }, //无论请求是成功还是失败都会执行的回调，常用全局成员的释放，或者页面状态的重置
-    })
+        complete: function () {
+		}, //无论请求是成功还是失败都会执行的回调，常用全局成员的释放，或者页面状态的重置
+    });
 }
+
