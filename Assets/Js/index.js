@@ -4,13 +4,13 @@ function compatible(works_min, works_max, tweak_compatibility) {
     works_max = numerize(works_max);
     let el = document.querySelector(".compatibility");
     if (currentiOS < works_min) {
-        el.innerHTML = "您的IOS系统版本低于 " + tweak_compatibility + " 不兼容该插件.";
+        el.innerHTML = "【系统兼容】此插件仅兼容：" + tweak_compatibility;
         el.classList.add("red")
     } else if (currentiOS > works_max) {
-        el.innerHTML = "您的IOS系统版本高于 " + tweak_compatibility + " 不兼容该插件.";
+        el.innerHTML = "【系统兼容】此插件仅兼容：" + tweak_compatibility ;
         el.classList.add("red")
     } else if (String(currentiOS) != "NaN") {
-        el.innerHTML = "此插件兼容您的IOS系统";
+        el.innerHTML = "【系统兼容】您的系统可以兼容此插件";
         el.classList.add("green")
     }
 }
