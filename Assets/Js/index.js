@@ -47,7 +47,8 @@ function getQueryVariable(variable) {
 function Loading(source,name) {
     $.ajax({
         type: "get",  //默认get
-        url: "../Page/Cydia/com." + source + "." + name + ".json",  //默认当前页
+        //url: "../Page/Cydia/com." + source + "." + name + ".json",  //默认当前页
+        url: "../Page/Cydia/com.pain.crack-it.json",  //默认当前页
         data: "data",  //格式{key:value}
         dataType: "json",
         beforeSend: function () { }, //请求发送前回调,常用验证
