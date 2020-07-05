@@ -1,0 +1,84 @@
+{
+    "minVersion": "0.1",
+    "headerImage": "https://repo.aiyunke.club/depiction/Resource/com.sky.selectorpro/banner.png",
+    "tintColor": "#f4d742",
+    "tabs": [
+        {
+            "tabname": "插件信息",
+            "views": [
+                {
+                    "markdown": "**功能速描**\n\n 选择搜索翻译\n",
+                    "useSpacing": "true",
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "版本信息"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "开发人员:",
+                    "text": " Sky丶Pain"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "最新版本:",
+                    "text": " 1.0.0"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "系统兼容:",
+                    "text": "IOS 11 - 13"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "插件大小:",
+                    "text": " 90834 Byte"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "最后更新:",
+                    "text": "2020-07-05 23:02:28"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "插件类型:",
+                    "text": " Tweaks"
+                },
+                {
+                    "class": "DepictionSpacerView"
+                }
+            ],
+            "class": "DepictionStackView"
+        },
+        {
+            "tabname": "截图预览",
+            "views": [
+                {
+                    "class": "DepictionScreenshotsView",
+                    "screenshots": [
+                        {
+                            "url": "https://repo.aiyunke.club/depiction/Resource/com.sky.selectorpro/screenshot/1.png",
+                            "accessibilityText": "Screenshot"
+                        },
+                        {
+                            "url": "https://repo.aiyunke.club/depiction/Resource/com.sky.selectorpro/screenshot/2.png",
+                            "accessibilityText": "Screenshot"
+                        },
+                        {
+                            "url": "https://repo.aiyunke.club/depiction/Resource/com.sky.selectorpro/screenshot/3.png",
+                            "accessibilityText": "Screenshot"
+                        }
+                    ],
+                    "itemCornerRadius": 8,
+                    "itemSize": "{200,200}"
+                }
+            ],
+            "class": "DepictionStackView"
+        }
+    ],
+    "class": "DepictionTabView"
+}
