@@ -1,6 +1,6 @@
 {
     "minVersion": "0.1",
-    "headerImage": "https://repo.aiyunke.club/depiction/Resource/com.sky.selectorpro/banner.png",
+    "headerImage": "https://repo.aiyunke.club/depiction/resource/com.sky.selectorpro/banner.png",
     "tintColor": "#f4d742",
     "tabs": [
         {
@@ -61,15 +61,15 @@
                     "class": "DepictionScreenshotsView",
                     "screenshots": [
                         {
-                            "url": "https://repo.aiyunke.club/depiction/Resource/com.sky.selectorpro/screenshot/1.png",
+                            "url": "https://repo.aiyunke.club/depiction/resource/com.sky.selectorpro/screenshot/1.png",
                             "accessibilityText": "Screenshot"
                         },
                         {
-                            "url": "https://repo.aiyunke.club/depiction/Resource/com.sky.selectorpro/screenshot/2.png",
+                            "url": "https://repo.aiyunke.club/depiction/resource/com.sky.selectorpro/screenshot/2.png",
                             "accessibilityText": "Screenshot"
                         },
                         {
-                            "url": "https://repo.aiyunke.club/depiction/Resource/com.sky.selectorpro/screenshot/3.png",
+                            "url": "https://repo.aiyunke.club/depiction/resource/com.sky.selectorpro/screenshot/3.png",
                             "accessibilityText": "Screenshot"
                         }
                     ],

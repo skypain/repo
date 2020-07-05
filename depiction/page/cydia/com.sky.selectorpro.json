@@ -1,7 +1,7 @@
 [
     {
         "name": " Selector Pro",
-        "head_img": "../../depiction/Resource/com.sky.selectorpro/banner.png",
+        "head_img": "../../depiction/resource/com.sky.selectorpro/banner.png",
         "describe": "插件信息",
         "screenshot": "截图预览",
         "info_h4": "功能速描",
@@ -19,8 +19,8 @@
         "info_text_5":"2020-07-05 23:02:28",
         "info_title_6":"插件类型：",
         "info_text_6":" Tweaks",
-        "Screenshot_1":"../../depiction/Resource/com.sky.selectorpro/screenshot/1.png",
-        "Screenshot_2":"../../depiction/Resource/com.sky.selectorpro/screenshot/2.png",
-        "Screenshot_3":"../../depiction/Resource/com.sky.selectorpro/screenshot/3.png"
+        "Screenshot_1":"../../depiction/resource/com.sky.selectorpro/screenshot/1.png",
+        "Screenshot_2":"../../depiction/resource/com.sky.selectorpro/screenshot/2.png",
+        "Screenshot_3":"../../depiction/resource/com.sky.selectorpro/screenshot/3.png"
     }
 ]
