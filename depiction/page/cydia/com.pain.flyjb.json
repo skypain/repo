@@ -1,0 +1,26 @@
+[
+    {
+        "name": " FlyJB",
+        "head_img": "../../depiction/resource/com.pain.flyjb/banner.png",
+        "describe": "插件信息",
+        "screenshot": "截图预览",
+        "info_h4": "功能速描",
+        "info_p_describe": " 屏蔽越狱检测",
+        "info_h3":"插件信息",
+        "info_title_1":"开发人员：",
+        "info_text_1":" XsF1re",
+        "info_title_2":"最新版本：",
+        "info_text_2":" 0.2~beta38",
+        "info_title_3":"系统兼容：",
+        "info_text_3":"IOS 11 - 13",
+        "info_title_4":"插件大小：",
+        "info_text_4":" 772334 Byte",
+        "info_title_5":"最后更新：",
+        "info_text_5":"2020-07-06 09:57:53",
+        "info_title_6":"插件类型：",
+        "info_text_6":" System",
+        "Screenshot_1":"../../depiction/resource/com.pain.flyjb/screenshot/1.png",
+        "Screenshot_2":"../../depiction/resource/com.pain.flyjb/screenshot/2.png",
+        "Screenshot_3":"../../depiction/resource/com.pain.flyjb/screenshot/3.png"
+    }
+]

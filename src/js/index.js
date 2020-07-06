@@ -1,3 +1,17 @@
+function numerize(x) {
+    return x.substring(0, x.indexOf(".")) + "." + x.substring(x.indexOf(".") + 1).replace(".", "")
+}
+function swap(hide, show) {
+    for (var i = document.querySelectorAll(hide).length - 1; i >= 0; i--) {
+        document.querySelectorAll(hide)[i].style.display = "none";
+    }
+    for (var i = document.querySelectorAll(show).length - 1; i >= 0; i--) {
+        document.querySelectorAll(show)[i].style.display = "block";
+    }
+    document.querySelector(".nav_btn" + show + "_btn").classList.add("active");
+    document.querySelector(".nav_btn" + hide + "_btn").classList.remove("active")
+}
+
 function getQueryVariable(variable) {
     var query = window.location.search.substring(1);
     var vars = query.split("&");
