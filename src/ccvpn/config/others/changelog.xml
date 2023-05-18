@@ -1,0 +1,11 @@
+<changelog>
+	<changes>
+		<version>1.1.1</version>
+		<change>修复注销后首次打开控制中心模块状态异常问题</change>
+	</changes>
+	<changes>
+		<version>1.1.0</version>
+		<change>调整延时 减少vpn打开后模块未刷新的问题</change>
+		<change>重新编译 更新描述页</change>
+	</changes>
+</changelog>

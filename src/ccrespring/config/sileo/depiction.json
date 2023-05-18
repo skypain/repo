@@ -1,0 +1,95 @@
+{
+	"minVersion": "0.1",
+	"headerImage": "https://skypain.github.io/repo/src/others/hed.jpg",
+	"tintColor": "#3f4042",
+	"tabs": [
+		{
+			"tabname": "插件信息",
+			"views": [
+				{
+					"itemCornerRadius": 6,
+					"itemSize": "{320, 275.41333333333336}",
+					"screenshots": [
+						{
+							"accessibilityText": "img",
+							"url": "https://skypain.github.io/repo/src/ccrespring/config/screenshots/s1.jpg",
+							"fullSizeURL": "https://skypain.github.io/repo/src/ccrespring/config/screenshots/s1.jpg"
+						}
+					],
+					"class": "DepictionScreenshotsView"
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"title": "简述",
+					"class": "DepictionHeaderView"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "控制中心注销模块"
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"title": "版本信息",
+					"class": "DepictionHeaderView"
+				},
+				{
+					"title": "最新版本",
+					"text": "1.1.0",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "更新时间",
+					"text": "2023/05/11",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "版本兼容",
+					"text": "Fugu 15.0 - 15.4.1",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "插件大小",
+					"text": "13 kb",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "开发者",
+					"text": "Mr.Zhang",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"spacing": 20,
+					"class": "DepictionSpacerView"
+				}
+			],
+			"class": "DepictionStackView"
+		},
+		{
+			"tabname": "更新日志",
+			"views": [
+				{
+					"title": "1.1.0",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 重新编译 调整描述页",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">更新时间 2023/04/07</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				}
+			],
+			"class": "DepictionStackView"
+		}
+	],
+	"class": "DepictionTabView"
+}

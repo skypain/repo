@@ -1,0 +1,23 @@
+<package>
+	<id>minilsp</id>
+	<name>MiniLsp</name>
+	<version>1.1.1</version>
+	<compatibility>
+	</compatibility>
+	<dependencies>
+	</dependencies>
+	<shortDescription>mini锁屏播放器 目前未有设置项 安装默认开启</shortDescription>
+	<descriptionlist>
+		<description>系统兼容: Dopamine 15.0 - 15.4.1</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<image>s1.jpg</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>修复部分机型控件遮挡歌曲信息问题</change>
+	</changelog>
+	<links>
+	</links>
+</package>

@@ -1,0 +1,23 @@
+<package>
+	<id>ccrespring</id>
+	<name>CCRespring</name>
+	<version>1.1.0</version>
+	<compatibility>
+	</compatibility>
+	<dependencies>
+	</dependencies>
+	<shortDescription>控制中心注销模块</shortDescription>
+	<descriptionlist>
+		<description>系统兼容: Dopamine 15.0 - 15.4.1</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<image>s1.jpg</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>重新编译 更新描述页</change>
+	</changelog>
+	<links>
+	</links>
+</package>

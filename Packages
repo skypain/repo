@@ -1,0 +1,339 @@
+Package: com.skypain.ccautobrightness
+Version: 1.0.0-1
+Architecture: iphoneos-arm64
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Installed-Size: 168
+Depends: com.opa334.ccsupport
+Filename: debs/com.skypain.ccautobrightness_1.0.0-1_iphoneos-arm64.deb
+Size: 18238
+MD5sum: 2c54561c7abef76d5e19e3b67ba480e0
+SHA1: d37b98927f799ec33a0b9992a75742c4f034cd67
+SHA256: d7c798a23c8488a8b359b9d901d146675553f4ff9782d0ed2a568dd9ea22e19e
+Section: Control Center (Modules)
+Homepage: https://skypain.github.io/repo/
+Description: 控制中心自动亮度模块
+Author: Mr.Zhang <mr_zhang_00@163.com>
+Depiction: https://skypain.github.io/repo/static/view/?p=ccautobrightness
+Icon: https://skypain.github.io/repo/src/ccautobrightness/Icon.png
+Name: CCAutoBrightness
+Sileodepiction: https://skypain.github.io/repo/src/ccautobrightness/config/sileo/depiction.json
+
+Package: com.skypain.cclocation
+Version: 1.1.0-1
+Architecture: iphoneos-arm64
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Installed-Size: 164
+Depends: com.opa334.ccsupport
+Filename: debs/com.skypain.cclocation_1.1.0-1_iphoneos-arm64.deb
+Size: 14412
+MD5sum: b0851ff3d077140c03fa9d8a4336dd14
+SHA1: 01283091d4bc89b731816d148ccddf609da8fcfa
+SHA256: c0ea6a66c53999144bfa021867615e74263cac5493b17fd25726ecee6e17a0b7
+Section: Control Center (Modules)
+Homepage: https://skypain.github.io/repo/
+Description: 控制中心定位开关模块
+Author: Mr.Zhang <mr_zhang_00@163.com>
+Depiction: https://skypain.github.io/repo/static/view/?p=cclocation
+Icon: https://skypain.github.io/repo/src/cclocation/Icon.png
+Name: CCLocation
+Sileodepiction: https://skypain.github.io/repo/src/cclocation/config/sileo/depiction.json
+
+Package: com.skypain.cclockscreen
+Version: 1.0.0-1
+Architecture: iphoneos-arm64
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Installed-Size: 172
+Depends: com.opa334.ccsupport
+Filename: debs/com.skypain.cclockscreen_1.0.0-1_iphoneos-arm64.deb
+Size: 18094
+MD5sum: a5fd1bc0caf8d5c68d1005d25014c92a
+SHA1: e9b5b16fc1c7e8c65685534aa13854940cbc96dc
+SHA256: f5e80dee947c1c3141013aa971148b1cdc236d84fcc8f45f76abf122d8049887
+Section: Control Center (Modules)
+Homepage: https://skypain.github.io/repo/
+Description: 控制中心锁屏模块
+Author: Mr.Zhang <mr_zhang_00@163.com>
+Depiction: https://skypain.github.io/repo/static/view/?p=cclockscreen
+Icon: https://skypain.github.io/repo/src/cclockscreen/Icon.png
+Name: CCLockScreen
+Sileodepiction: https://skypain.github.io/repo/src/cclockscreen/config/sileo/depiction.json
+
+Package: com.skypain.ccrespring
+Version: 1.1.0-1
+Architecture: iphoneos-arm64
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Installed-Size: 176
+Depends: com.opa334.ccsupport
+Filename: debs/com.skypain.ccrespring_1.1.0-1_iphoneos-arm64.deb
+Size: 25318
+MD5sum: 4c6a52bcfcb135e4b8f1e8bc486ef0a5
+SHA1: 067297468ede115c9144f8b29ac7cbd1c26015e5
+SHA256: a1d8b2b7abbc0fff8495103ac360f477c2c4336bb57326fc8ca69a24906f3926
+Section: Control Center (Modules)
+Homepage: https://skypain.github.io/repo/
+Description: 控制中心注销模块
+Author: Mr.Zhang <mr_zhang_00@163.com>
+Depiction: https://skypain.github.io/repo/static/view/?p=ccrespring
+Icon: https://skypain.github.io/repo/src/ccrespring/Icon.png
+Name: CCRespring
+Sileodepiction: https://skypain.github.io/repo/src/ccrespring/config/sileo/depiction.json
+
+Package: com.skypain.ccrespring
+Version: 1.1.0-2
+Architecture: iphoneos-arm64
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Installed-Size: 164
+Depends: com.opa334.ccsupport
+Filename: debs/com.skypain.ccrespring_1.1.0-2_iphoneos-arm64.deb
+Size: 13224
+MD5sum: 90befd5bb8639a1be437c4fdd9c5a516
+SHA1: 061cbfc8993a796ea4bd83ce5eb411def769d489
+SHA256: 13e31b8db540df08e0ba37a293290f810eace8a746598f0fbad8be48b2452602
+Section: Control Center (Modules)
+Homepage: https://skypain.github.io/repo/
+Description: 控制中心注销模块
+Author: Mr.Zhang <mr_zhang_00@163.com>
+Depiction: https://skypain.github.io/repo/static/view/?p=ccrespring
+Icon: https://skypain.github.io/repo/src/ccrespring/Icon.png
+Name: CCRespring
+Sileodepiction: https://skypain.github.io/repo/src/ccrespring/config/sileo/depiction.json
+
+Package: com.skypain.ccscreenshot
+Version: 1.0.0-1
+Architecture: iphoneos-arm64
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Installed-Size: 164
+Depends: com.opa334.ccsupport
+Filename: debs/com.skypain.ccscreenshot_1.0.0-1_iphoneos-arm64.deb
+Size: 13546
+MD5sum: 89daafde99a5f3a0766ca0e72824bc12
+SHA1: a60867c1abea37b1827c5b07a7a4cc6990b3534e
+SHA256: 03d654869369983703305413b32e49f7605931b605536a8c53aaa722a8e1f511
+Section: Control Center (Modules)
+Homepage: https://skypain.github.io/repo/
+Description: 控制中心截图模块
+Author: Mr.Zhang <mr_zhang_00@163.com>
+Depiction: https://skypain.github.io/repo/static/view/?p=ccscreenshot
+Icon: https://skypain.github.io/repo/src/ccscreenshot/Icon.png
+Name: CCScreenShot
+Sileodepiction: https://skypain.github.io/repo/src/ccscreenshot/config/sileo/depiction.json
+
+Package: com.skypain.ccsettrings
+Version: 1.1.0-1
+Architecture: iphoneos-arm64
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Installed-Size: 184
+Depends: com.opa334.ccsupport
+Filename: debs/com.skypain.ccsettrings_1.1.0-1_iphoneos-arm64.deb
+Size: 33356
+MD5sum: 1bd9352b23748055ba26753b178c4946
+SHA1: d09d3218541a9e7cd169fda0366b9935fa6e265c
+SHA256: 03e3f4db88b10162186748c051399ab0bf19e490db74397ebedca6c7feb76a6b
+Section: Control Center (Modules)
+Homepage: https://skypain.github.io/repo/
+Description: 控制中心设置快捷入口模块
+Author: Mr.Zhang <mr_zhang_00@163.com>
+Depiction: https://skypain.github.io/repo/static/view/?p=ccsettrings
+Icon: https://skypain.github.io/repo/src/ccsettrings/Icon.png
+Name: CCSettrings
+Sileodepiction: https://skypain.github.io/repo/src/ccsettrings/config/sileo/depiction.json
+
+Package: com.skypain.ccvpn
+Version: 1.1.0-1
+Architecture: iphoneos-arm64
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Installed-Size: 184
+Depends: com.opa334.ccsupport
+Filename: debs/com.skypain.ccvpn_1.1.0-1_iphoneos-arm64.deb
+Size: 30662
+MD5sum: c3c0cfcb57b6d57f3f31d1a0d78d1e2f
+SHA1: 85e00aa660df57b11c420c354e375aeb49055e36
+SHA256: 80be3a3e0c0570766a52f43cc78dc886a0c0e29a9d06b9be32e0222c108c7c8a
+Section: Control Center (Modules)
+Homepage: https://skypain.github.io/repo/
+Description: 控制中心VPN便捷开关模块
+Author: Mr.Zhang <mr_zhang_00@163.com>
+Depiction: https://skypain.github.io/repo/static/view/?p=ccvpn
+Icon: https://skypain.github.io/repo/src/ccvpn/Icon.png
+Name: CCVPN
+Sileodepiction: https://skypain.github.io/repo/src/ccvpn/config/sileo/depiction.json
+
+Package: com.skypain.ccvpn
+Version: 1.1.1-1
+Architecture: iphoneos-arm64
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Installed-Size: 184
+Depends: com.opa334.ccsupport
+Filename: debs/com.skypain.ccvpn_1.1.1-1_iphoneos-arm64.deb
+Size: 30668
+MD5sum: 20fe1e9c92cf433c352e959fffc18ad6
+SHA1: 3ade1c35dc176dc68346b4cf474ed9748a33403f
+SHA256: ff46c5d19def5668eb36aee9de216332f1124e2e4225a85f6d6d818b06779c1e
+Section: Control Center (Modules)
+Homepage: https://skypain.github.io/repo/
+Description: 控制中心VPN便捷开关模块
+Author: Mr.Zhang <mr_zhang_00@163.com>
+Depiction: https://skypain.github.io/repo/static/view/?p=ccvpn
+Icon: https://skypain.github.io/repo/src/ccvpn/Icon.png
+Name: CCVPN
+Sileodepiction: https://skypain.github.io/repo/src/ccvpn/config/sileo/depiction.json
+
+Package: com.skypain.ccvpn
+Version: 1.1.1-2
+Architecture: iphoneos-arm64
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Installed-Size: 184
+Depends: com.opa334.ccsupport
+Filename: debs/com.skypain.ccvpn_1.1.1-2_iphoneos-arm64.deb
+Size: 30760
+MD5sum: 18fadde3dba39a51dd27c1ffeba706f9
+SHA1: e076c08843342f40163415085e76d1b87a3d5467
+SHA256: 4ddd31efec3caa1730521da2ad3e0b3f83b0829b80e3dfe3b0c4e4a09cb55977
+Section: Control Center (Modules)
+Homepage: https://skypain.github.io/repo/
+Description: 控制中心VPN便捷开关模块
+Author: Mr.Zhang <mr_zhang_00@163.com>
+Depiction: https://skypain.github.io/repo/static/view/?p=ccvpn
+Icon: https://skypain.github.io/repo/src/ccvpn/Icon.png
+Name: CCVPN
+Sileodepiction: https://skypain.github.io/repo/src/ccvpn/config/sileo/depiction.json
+
+Package: com.skypain.kayoko
+Version: 1.3-1
+Architecture: iphoneos-arm64
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Installed-Size: 1040
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: dev.traurige.kayoko
+Filename: debs/com.skypain.kayoko_1.3-1_iphoneos-arm64.deb
+Size: 121160
+MD5sum: 6e6dd2e2027f9e0bf38f973e519064ce
+SHA1: 6575462ba0cee01157cec974723f1e05c369c5c6
+SHA256: 94c9c8415108ffdc5ede854a1a7e129213e1b5744a98aa1a70c9ebcdc80ccb97
+Section: Tweaks
+Homepage: https://skypain.github.io/repo/
+Description: kayoko魔改版  原版GitHub https://github.com/Traurige/Kayoko  原魔改版GitHub  https://github.com/Lessica/Kayoko  简体中文支持来自叨叨源  https://xiangfeidexiaohuo.github.io/  本人仅将两个项目合并支持Rootless
+Author: Traurige <hello@traurige.dev>
+Depiction: https://skypain.github.io/repo/static/view/?p=kayoko
+Icon: https://skypain.github.io/repo/src/kayoko/Icon.png
+Name: Kayoko
+Sileodepiction: https://skypain.github.io/repo/src/kayoko/config/sileo/depiction.json
+
+Package: com.skypain.kayoko
+Version: 1.3-2
+Architecture: iphoneos-arm64
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Installed-Size: 1048
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: dev.traurige.kayoko
+Filename: debs/com.skypain.kayoko_1.3-2_iphoneos-arm64.deb
+Size: 119558
+MD5sum: 72684e541d7a94552c5938966c77a0c1
+SHA1: 8cb1af04f97f349ca2ab45934e68a2c7f5c5e336
+SHA256: e6ae4a51e3f437b74f44b5c8e20494d5722f49bb36a49f779b7474ae64339ceb
+Section: Tweaks
+Homepage: https://skypain.github.io/repo/
+Description: kayoko魔改版 基于Traurige和Lessica的开源项目合并支持Rootless 简体中文来自叨叨源
+Author: Traurige&Lessica
+Depiction: https://skypain.github.io/repo/static/view/?p=kayoko
+Icon: https://skypain.github.io/repo/src/kayoko/Icon.png
+Name: Kayoko
+Sileodepiction: https://skypain.github.io/repo/src/kayoko/config/sileo/depiction.json
+
+Package: com.skypain.kayoko
+Version: 1.3.1-1
+Architecture: iphoneos-arm64
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Installed-Size: 1084
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: dev.traurige.kayoko
+Filename: debs/com.skypain.kayoko_1.3.1-1_iphoneos-arm64.deb
+Size: 128666
+MD5sum: 6bf419167859a15bb9ca5c7af9138e22
+SHA1: 7207b0134e12bed84024e62ededc6a86176263cc
+SHA256: ea7f2473a416ff3681011da2eec0307ca3c50f7454608364e0d957aca6a0fe6f
+Section: Tweaks
+Homepage: https://skypain.github.io/repo/
+Description: kayoko魔改版 基于Traurige和Lessica的开源项目合并支持Rootless 简体中文来自叨叨源
+Author: Traurige&Lessica
+Depiction: https://skypain.github.io/repo/static/view/?p=kayoko
+Icon: https://skypain.github.io/repo/src/kayoko/Icon.png
+Name: Kayoko
+Sileodepiction: https://skypain.github.io/repo/src/kayoko/config/sileo/depiction.json
+
+Package: com.skypain.minilsp
+Version: 1.1.0-1
+Architecture: iphoneos-arm64
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: debs/com.skypain.minilsp_1.1.0-1_iphoneos-arm64.deb
+Size: 5700
+MD5sum: a10160b7ae2337e7f582166dfa370772
+SHA1: f85c2aadb5ccb9fd5c6c0d11eab658a8d3dabc1e
+SHA256: 8f3e919744bf15785c971899a5935e9790ad71ab9803a4f117c87c4d0d33b499
+Section: Tweaks
+Homepage: https://skypain.github.io/repo/
+Description: mini锁屏播放器
+Author: Mr.Zhang <mr_zhang_00@163.com>
+Depiction: https://skypain.github.io/repo/static/view/?p=minilsp
+Icon: https://skypain.github.io/repo/src/minilsp/Icon.png
+Name: MiniLsp
+Sileodepiction: https://skypain.github.io/repo/src/minilsp/config/sileo/depiction.json
+
+Package: com.skypain.minilsp
+Version: 1.1.1-1
+Architecture: iphoneos-arm64
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: debs/com.skypain.minilsp_1.1.1-1_iphoneos-arm64.deb
+Size: 5704
+MD5sum: a5afdc011538b36f5f009b84199056b2
+SHA1: ea63cfffd711b7a581494fc24452f5f82d02f2e0
+SHA256: 6ae810e11b82d3c6cd4f53df51d6125e309e93d14165ab7801fa3a4ca37f38b8
+Section: Tweaks
+Homepage: https://skypain.github.io/repo/
+Description: mini锁屏播放器
+Author: Mr.Zhang <mr_zhang_00@163.com>
+Depiction: https://skypain.github.io/repo/static/view/?p=minilsp
+Icon: https://skypain.github.io/repo/src/minilsp/Icon.png
+Name: MiniLsp
+Sileodepiction: https://skypain.github.io/repo/src/minilsp/config/sileo/depiction.json
+
+Package: com.skypain.minilsp
+Version: 1.1.1-4
+Architecture: iphoneos-arm64
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: debs/com.skypain.minilsp_1.1.1-4_iphoneos-arm64.deb
+Size: 5732
+MD5sum: 835c54642440145a5c9296ba996b9435
+SHA1: e9d15087763189396313d555ab0020255b7f37db
+SHA256: a87867644901eba584017eba3971b2615d0a3e69f96d1537031570b2e4a9aeef
+Section: Tweaks
+Homepage: https://skypain.github.io/repo/
+Description: mini锁屏播放器
+Author: Mr.Zhang <mr_zhang_00@163.com>
+Depiction: https://skypain.github.io/repo/static/view/?p=minilsp
+Icon: https://skypain.github.io/repo/src/minilsp/Icon.png
+Name: MiniLsp
+Sileodepiction: https://skypain.github.io/repo/src/minilsp/config/sileo/depiction.json
+
+Package: com.skypain.skymultiboxing
+Version: 1.0.0-1
+Architecture: iphoneos-arm64
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: debs/com.skypain.skymultiboxing_1.0.0-1_iphoneos-arm64.deb
+Size: 4414
+MD5sum: e457f8705523313380dafe1f56396fa1
+SHA1: 8b11a2a540304c95e14c6a6c37203ed29c92de7d
+SHA256: 49ca2b97c0ad7b3af4d6c1ceb1d57f4760e589ae0b8d5ae703126eaf80d95220
+Section: Tweaks
+Description: 解决国服光遇多开限制 越狱检测自行用屏蔽插件
+Author: Mr.Zhang <mr_zhang_00@163.com>
+Name: SkyMultiboxing
+

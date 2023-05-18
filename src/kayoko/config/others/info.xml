@@ -1,0 +1,29 @@
+<package>
+	<id>kayoko</id>
+	<name>Kayoko</name>
+	<version>1.3.1</version>
+	<compatibility>
+	</compatibility>
+	<dependencies>
+	</dependencies>
+	<shortDescription>kayoko魔改版
+基于Traurige和Lessica的开源项目合并支持Rootless
+简体中文来自叨叨源
+	</shortDescription>
+	<descriptionlist>
+		<description>系统兼容: Fugu 15.0 - 15.4.1</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<image>s1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<image>s2.jpg</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>同步官方更新</change>
+	</changelog>
+	<links>
+	</links>
+</package>
