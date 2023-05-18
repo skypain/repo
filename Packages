@@ -321,6 +321,22 @@ Icon: https://skypain.github.io/repo/src/minilsp/Icon.png
 Name: MiniLsp
 Sileodepiction: https://skypain.github.io/repo/src/minilsp/config/sileo/depiction.json
 
+Package: com.skypain.ringpercentlabel
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Installed-Size: 152
+Depends: firmware (>= 14.0),mobilesubstrate
+Filename: debs/com.skypain.ringpercentlabel_1.0.5_iphoneos-arm64.deb
+Size: 7298
+MD5sum: 38b639bd3ef676092a9bd15206074b66
+SHA1: 81b2c46c4856e9e4169b80a83c9e0b670c342e92
+SHA256: 79f51f36588a2ccaeac903aff015479ad2d9ca7386dbb4abddb85935d193723a
+Section: Tweaks
+Description: 2x2电池小组件显示电池电量百分比 基于P2KDev的版本 去除在单设备时系统默认的电池百分比
+Author: P2KDev <p2kdev@gmail.com>
+Name: RingPercentLabel
+
 Package: com.skypain.skymultiboxing
 Version: 1.0.0-1
 Architecture: iphoneos-arm64
