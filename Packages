@@ -353,3 +353,21 @@ Description: 解决国服光遇多开限制 越狱检测自行用屏蔽插件
 Author: Mr.Zhang <mr_zhang_00@163.com>
 Name: SkyMultiboxing
 
+Package: re.frida.server
+Version: 16.0.19
+Architecture: iphoneos-arm64
+Maintainer: Ole André Vadla Ravnås <oleavr@nowsecure.com>
+Installed-Size: 58492
+Conflicts: re.frida.server64
+Filename: debs/frida_16.0.19_iphoneos-arm64.deb
+Size: 17578512
+MD5sum: 76d5f87b163c1f88921889265ce315e5
+SHA1: 9b086ab91f23b71d6674aa46e3ee313e7fb2615a
+SHA256: f6a5b4ed7f9c22dc4b657b6e2b5d56caeaa26459ea6ef361302b3c9d87fdfc5f
+Section: Development
+Priority: optional
+Homepage: https://frida.re/
+Description: Observe and reprogram running programs.
+Author: Frida Developers <oleavr@nowsecure.com>
+Name: Frida
+
