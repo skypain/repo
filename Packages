@@ -360,10 +360,10 @@ Maintainer: Ole André Vadla Ravnås <oleavr@nowsecure.com>
 Installed-Size: 58492
 Conflicts: re.frida.server64
 Filename: debs/re.frida.server_16.0.19_iphoneos-arm64.deb
-Size: 17580356
-MD5sum: 40f6526e986a630e6e91f733f18ec99a
-SHA1: b5a26b5f9fba33f88db9ce1162aee7d7a4af89f4
-SHA256: 3d65a84491882320f16c8c3b7a3af577d170d2bbdf92b9a9a8688aec76ba0511
+Size: 17581308
+MD5sum: a8b6ebfd181a4867dbc2a4dca300ed2b
+SHA1: 9e8601fa2da28cb65e02bccb75be348b4a125764
+SHA256: 50d9a6a8a243b8de4119dbdbb682c6afa992094d846ac6b393b10eddd068a1a3
 Section: Development
 Priority: optional
 Homepage: https://frida.re/
