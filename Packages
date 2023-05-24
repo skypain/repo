@@ -359,11 +359,11 @@ Architecture: iphoneos-arm64
 Maintainer: Ole André Vadla Ravnås <oleavr@nowsecure.com>
 Installed-Size: 58492
 Conflicts: re.frida.server64
-Filename: debs/frida_16.0.19_iphoneos-arm64.deb
-Size: 17578512
-MD5sum: 76d5f87b163c1f88921889265ce315e5
-SHA1: 9b086ab91f23b71d6674aa46e3ee313e7fb2615a
-SHA256: f6a5b4ed7f9c22dc4b657b6e2b5d56caeaa26459ea6ef361302b3c9d87fdfc5f
+Filename: debs/re.frida.server_16.0.19_iphoneos-arm64.deb
+Size: 17580356
+MD5sum: 40f6526e986a630e6e91f733f18ec99a
+SHA1: b5a26b5f9fba33f88db9ce1162aee7d7a4af89f4
+SHA256: 3d65a84491882320f16c8c3b7a3af577d170d2bbdf92b9a9a8688aec76ba0511
 Section: Development
 Priority: optional
 Homepage: https://frida.re/
