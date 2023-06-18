@@ -395,3 +395,19 @@ Description: 解决国服光遇多开限制 越狱检测自行用屏蔽插件
 Author: Mr.Zhang <mr_zhang_00@163.com>
 Name: SkyMultiboxing
 
+Package: com.skypain.teleportcn
+Version: 1.0.0-1
+Architecture: iphoneos-arm64
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: debs/com.skypain.teleportcn_1.0.0-1_iphoneos-arm64.deb
+Size: 7642
+MD5sum: 1f0e28f012924d1a3825b8843915eee4
+SHA1: 02f1918464cb38cef86d520d08425b592c04f74d
+SHA256: dc7fee6430e986c960400b26899124b5a6ec285c7a5ef836e9d831e40584e7d9
+Section: Tweaks
+Description: Teleport虚拟定位简体中文包
+Author: Mr.Zhang <mr_zhang_00@163.com>
+Name: Teleport简体中文
+
