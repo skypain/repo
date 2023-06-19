@@ -1,3 +1,18 @@
+Package: com.sgwc.teleport
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Depends: mobilesubstrate
+Filename: debs/com.sgwc.teleport_1.1_iphoneos-arm64.deb
+Size: 7382192
+MD5sum: a4707dccb4bff09cafdb21c3c530d12c
+SHA1: 4761bc2f3ea334d2cf39a301f06a0672b43ceee4
+SHA256: 0a847a19b7d0e95e8ca10c1ffb9dbba9c6f051beada34881079056cb702c4837
+Section: Tweaks
+Description: Teleport虚拟定位(仅搬运)
+Author: SGWC
+Name: Teleport
+
 Package: com.skypain.ccautobrightness
 Version: 1.0.0-1
 Architecture: iphoneos-arm64
@@ -410,4 +425,20 @@ Section: Tweaks
 Description: Teleport虚拟定位简体中文包
 Author: Mr.Zhang <mr_zhang_00@163.com>
 Name: Teleport简体中文
+
+Package: com.skypain.teleportcn
+Version: 1.0.0-2
+Architecture: iphoneos-arm64
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: debs/com.skypain.teleportcn_1.0.0-2_iphoneos-arm64.deb
+Size: 7728
+MD5sum: 228efc86407b5cf1a1cc1f84399a8ad8
+SHA1: b222ca6b9b8294a98d8470ae06cfc8d3b2cc9745
+SHA256: 5db110095cd5f44818b4be0c30fb2924399f534bf472afdf8f5bb14e639d2d84
+Section: Tweaks
+Description: Teleport 简体中文包
+Author: Mr.Zhang <mr_zhang_00@163.com>
+Name: Teleport 简体中文包
 
