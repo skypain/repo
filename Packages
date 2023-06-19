@@ -318,6 +318,22 @@ Icon: https://skypain.github.io/repo/src/kayoko/Icon.png
 Name: Kayoko
 Sileodepiction: https://skypain.github.io/repo/src/kayoko/config/sileo/depiction.json
 
+Package: com.skypain.lookinloader
+Version: 1.2.0-1
+Architecture: iphoneos-arm64
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Installed-Size: 2812
+Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
+Filename: debs/com.skypain.lookinloader_1.2.0-1_iphoneos-arm64.deb
+Size: 438012
+MD5sum: 4e90197632eb1365ad3e85ca14bcefba
+SHA1: 85dc1807184ab7934f736a305a849f08a54e14c2
+SHA256: 3bc09a156b0a4bccdf0c9476d6a9e01e7b1bd19b9398f2fa0f69046c5996bf0b
+Section: Tweaks
+Description: Lookin UI调试工具
+Author: Mr.Zhang <mr_zhang_00@163.com>
+Name: LookinLoader
+
 Package: com.skypain.minilsp
 Version: 1.1.0-1
 Architecture: iphoneos-arm64
