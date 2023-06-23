@@ -73,6 +73,26 @@ Icon: https://skypain.github.io/repo/src/cclockscreen/Icon.png
 Name: CCLockScreen
 Sileodepiction: https://skypain.github.io/repo/src/cclockscreen/config/sileo/depiction.json
 
+Package: com.skypain.cclockscreen
+Version: 1.1.0-1
+Architecture: iphoneos-arm64
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Installed-Size: 176
+Depends: com.opa334.ccsupport
+Filename: debs/com.skypain.cclockscreen_1.1.0-1_iphoneos-arm64.deb
+Size: 25088
+MD5sum: e7814206886827d587980e4d39bbf682
+SHA1: 4ebfbddcf9955b67d24c0a14fb6f1ea0d99d6183
+SHA256: 223c4998349e33a48acaffc7725928878072cda7bc05fee85d400bcd5b20d26f
+Section: Control Center (Modules)
+Homepage: https://skypain.github.io/repo/
+Description: 控制中心锁屏模块
+Author: Mr.Zhang <mr_zhang_00@163.com>
+Depiction: https://skypain.github.io/repo/static/view/?p=cclockscreen
+Icon: https://skypain.github.io/repo/src/cclockscreen/Icon.png
+Name: CCLockScreen
+Sileodepiction: https://skypain.github.io/repo/src/cclockscreen/config/sileo/depiction.json
+
 Package: com.skypain.ccrespring
 Version: 1.1.0-1
 Architecture: iphoneos-arm64

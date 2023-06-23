@@ -38,7 +38,7 @@
 				},
 				{
 					"title": "最新版本",
-					"text": "1.0.0",
+					"text": "1.1.0",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -53,7 +53,7 @@
 				},
 				{
 					"title": "插件大小",
-					"text": "18 kb",
+					"text": "25 kb",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -71,6 +71,22 @@
 		{
 			"tabname": "更新日志",
 			"views": [
+								{
+					"title": "1.1.0",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 修改图标 让控制中心图标更加协调",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">更新时间 2023/06/24</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
 				{
 					"title": "1.0.0",
 					"useBoldText": true,

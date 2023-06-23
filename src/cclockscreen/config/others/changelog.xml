@@ -1,4 +1,8 @@
 <changelog>
+	changes>
+		<version>1.1.0</version>
+		<change>修改图标 让控制中心图标更加协调</change>
+	</changes>
 	<changes>
 		<version>1.0.0</version>
 		<change>初始版本</change>
