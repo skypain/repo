@@ -8,7 +8,7 @@
 	</dependencies>
 	<shortDescription>控制中心VPN便捷开关模块</shortDescription>
 	<descriptionlist>
-		<description>系统兼容: Fugu 15.0 - 15.4.1</description>
+		<description>系统兼容: Dopamine 15.0 - 15.4.1</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>

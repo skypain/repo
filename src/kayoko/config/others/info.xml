@@ -11,7 +11,7 @@
 简体中文来自叨叨源
 	</shortDescription>
 	<descriptionlist>
-		<description>系统兼容: Fugu 15.0 - 15.4.1</description>
+		<description>系统兼容: Dopamine 15.0 - 15.4.1</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
@@ -22,7 +22,7 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>同步官方更新</change>
+		<change>同步官方更新 补全汉化</change>
 	</changelog>
 	<links>
 	</links>
