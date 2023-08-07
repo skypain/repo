@@ -1,5 +1,9 @@
 <changelog>
-		<changes>
+	<changes>
+		<version>1.1.2</version>
+		<change>修复Bug</change>
+	</changes>
+	<changes>
 		<version>1.1.1</version>
 		<change>修复部分机型控件遮挡歌曲信息问题</change>
 	</changes>

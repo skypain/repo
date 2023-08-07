@@ -435,6 +435,26 @@ Icon: https://skypain.github.io/repo/src/minilsp/Icon.png
 Name: MiniLsp
 Sileodepiction: https://skypain.github.io/repo/src/minilsp/config/sileo/depiction.json
 
+Package: com.skypain.minilsp
+Version: 1.1.2
+Architecture: iphoneos-arm64
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: debs/com.skypain.minilsp_1.1.2_iphoneos-arm64.deb
+Size: 5666
+MD5sum: 2385dbe4c0d6deacf5e43f0033159d99
+SHA1: 7719956bdaddda58e33aebe499a24b5ef07a022d
+SHA256: 9306000377ac876a400e40d9560efdf4eaa058a8d19db0b3fd8cbbb2dc8d0b5d
+Section: Tweaks
+Homepage: https://skypain.github.io/repo/
+Description: mini锁屏播放器
+Author: Mr.Zhang <mr_zhang_00@163.com>
+Depiction: https://skypain.github.io/repo/static/view/?p=minilsp
+Icon: https://skypain.github.io/repo/src/minilsp/Icon.png
+Name: MiniLsp
+Sileodepiction: https://skypain.github.io/repo/src/minilsp/config/sileo/depiction.json
+
 Package: com.skypain.ringpercentlabel
 Version: 1.0.5
 Architecture: iphoneos-arm64

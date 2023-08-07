@@ -38,7 +38,7 @@
 				},
 				{
 					"title": "最新版本",
-					"text": "1.1.1",
+					"text": "1.1.2",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -71,6 +71,22 @@
 		{
 			"tabname": "更新日志",
 			"views": [
+				{
+					"title": "1.1.2",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 修复Bug",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">更新时间 2023/08/07</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
 				{
 					"title": "1.1.1",
 					"useBoldText": true,
