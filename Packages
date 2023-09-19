@@ -375,6 +375,22 @@ Description: Lookin UI调试工具
 Author: Mr.Zhang <mr_zhang_00@163.com>
 Name: LookinLoader
 
+Package: com.skypain.lookinloader
+Version: 1.2.1-1
+Architecture: iphoneos-arm64
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Installed-Size: 2808
+Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
+Filename: debs/com.skypain.lookinloader_1.2.1-1_iphoneos-arm64.deb
+Size: 435584
+MD5sum: 1385d53289f0ff46a12579cb6f6a8f38
+SHA1: 2c05a8a6adeef2363ed87b3a259e67b4b4255118
+SHA256: f3569f7d8a6e2bda97e86612be816b3297ee841ce6af842ca0f03ec68f49ab15
+Section: Tweaks
+Description: Lookin UI调试工具
+Author: Mr.Zhang <mr_zhang_00@163.com>
+Name: LookinLoader
+
 Package: com.skypain.minilsp
 Version: 1.1.0-1
 Architecture: iphoneos-arm64
