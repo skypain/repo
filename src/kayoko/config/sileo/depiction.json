@@ -47,12 +47,12 @@
 				},
 				{
 					"title": "最新版本",
-					"text": "1.4.1",
+					"text": "1.4.2",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "更新时间",
-					"text": "2023/07/14",
+					"text": "2023/12/03",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -62,7 +62,7 @@
 				},
 				{
 					"title": "插件大小",
-					"text": "130 kb",
+					"text": "129 kb",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -80,6 +80,22 @@
 		{
 			"tabname": "更新日志",
 			"views": [
+				{
+					"title": "1.4.2",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 同步官方更新",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">更新时间 2023/12/03</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
 				{
 					"title": "1.4.1",
 					"useBoldText": true,

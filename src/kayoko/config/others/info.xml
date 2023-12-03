@@ -1,7 +1,7 @@
 <package>
 	<id>kayoko</id>
 	<name>Kayoko</name>
-	<version>1.4.0</version>
+	<version>1.4.2</version>
 	<compatibility>
 	</compatibility>
 	<dependencies>
@@ -22,7 +22,7 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>同步官方更新 补全汉化</change>
+		<change>同步官方更新</change>
 	</changelog>
 	<links>
 	</links>

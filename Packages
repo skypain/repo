@@ -499,6 +499,27 @@ Icon: https://skypain.github.io/repo/src/kayoko/Icon.png
 Name: Kayoko
 Sileodepiction: https://skypain.github.io/repo/src/kayoko/config/sileo/depiction.json
 
+Package: com.skypain.kayoko
+Version: 1.4.2-1
+Architecture: iphoneos-arm64
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Installed-Size: 1116
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: dev.traurige.kayoko
+Filename: debs/com.skypain.kayoko_1.4.2-1_iphoneos-arm64.deb
+Size: 128758
+MD5sum: 9dfa83bf4a1f7ff1f4b113fb6f420c27
+SHA1: 9421522fe10ec2b1d364d9118da19d5016eb687d
+SHA256: 36f942dc1cbe451adf5ae11e6eac90189c96f6b6b8cd5375bef8fc08b23c8963
+Section: Tweaks
+Homepage: https://skypain.github.io/repo/
+Description: kayoko魔改版 基于Traurige和Lessica的开源项目合并支持Rootless 简体中文来自叨叨源
+Author: Traurige&Lessica
+Depiction: https://skypain.github.io/repo/static/view/?p=kayoko
+Icon: https://skypain.github.io/repo/src/kayoko/Icon.png
+Name: Kayoko
+Sileodepiction: https://skypain.github.io/repo/src/kayoko/config/sileo/depiction.json
+
 Package: com.skypain.lookinloader
 Version: 1.2.0-2
 Architecture: iphoneos-arm64
