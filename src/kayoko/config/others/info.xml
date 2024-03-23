@@ -1,14 +1,15 @@
 <package>
 	<id>kayoko</id>
-	<name>Kayoko</name>
-	<version>1.4.2</version>
+	<name>kayoko Modified</name>
+	<version>2.0.0</version>
 	<compatibility>
 	</compatibility>
 	<dependencies>
 	</dependencies>
-	<shortDescription>kayoko魔改版
-基于Traurige和Lessica的开源项目合并支持Rootless
-简体中文来自叨叨源
+	<shortDescription>
+基于Traurige和Lessica的开源项目 支持Rootless和Roothide
+Based on the open-source projects of Traurige and Lessica, supports Rootless and Roothide.
+文本过滤功能请使用正则表达式 该版本暂时移除简体中文支持
 	</shortDescription>
 	<descriptionlist>
 		<description>系统兼容: Dopamine 15.0 - 15.4.1</description>
@@ -22,7 +23,7 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>同步官方更新</change>
+		<change>同步官方更新 添加文本过滤功能</change>
 	</changelog>
 	<links>
 	</links>

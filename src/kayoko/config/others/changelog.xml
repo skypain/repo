@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>2.0.0</version>
+		<change>同步官方更新 添加文本过滤功能</change>
+	</changes>
+	<changes>
 		<version>1.4.2</version>
 		<change>同步官方更新</change>
 	</changes>

@@ -1,168 +1,192 @@
 {
-	"minVersion": "0.1",
-	"headerImage": "https://skypain.github.io/repo/src/others/hed.jpg",
-	"tintColor": "#3f4042",
-	"tabs": [
-		{
-			"tabname": "插件信息",
-			"views": [
-				{
-					"itemCornerRadius": 6,
-					"itemSize": "{320, 275.41333333333336}",
-					"screenshots": [
-						{
-							"accessibilityText": "img",
-							"url": "https://skypain.github.io/repo/src/kayoko/config/screenshots/s1.jpg",
-							"fullSizeURL": "https://skypain.github.io/repo/src/kayoko/config/screenshots/s1.jpg"
-						},
-						{
-							"accessibilityText": "img",
-							"url": "https://skypain.github.io/repo/src/kayoko/config/screenshots/s2.jpg",
-							"fullSizeURL": "https://skypain.github.io/repo/src/kayoko/config/screenshots/s2.jpg"
-						}
-					],
-					"class": "DepictionScreenshotsView"
-				},
-				{
-					"class": "DepictionSeparatorView"
-				},
-				{
-					"title": "简述",
-					"class": "DepictionHeaderView"
-				},
-				{
-					"class": "DepictionMarkdownView",
-					"markdown": "## kayoko魔改版"
-				},
-				{
-					"class": "DepictionMarkdownView",
-					"markdown": "基于Traurige和Lessica的开源项目合并支持Rootless 简体中文来自叨叨源"
-				},
-				{
-					"class": "DepictionSeparatorView"
-				},
-				{
-					"title": "版本信息",
-					"class": "DepictionHeaderView"
-				},
-				{
-					"title": "最新版本",
-					"text": "1.4.2",
-					"class": "DepictionTableTextView"
-				},
-				{
-					"title": "更新时间",
-					"text": "2023/12/03",
-					"class": "DepictionTableTextView"
-				},
-				{
-					"title": "版本兼容",
-					"text": "Dopamine 15.0 - 15.4.1",
-					"class": "DepictionTableTextView"
-				},
-				{
-					"title": "插件大小",
-					"text": "129 kb",
-					"class": "DepictionTableTextView"
-				},
-				{
-					"title": "开发者",
-					"text": "Traurige&Lessica",
-					"class": "DepictionTableTextView"
-				},
-				{
-					"spacing": 20,
-					"class": "DepictionSpacerView"
-				}
-			],
-			"class": "DepictionStackView"
-		},
-		{
-			"tabname": "更新日志",
-			"views": [
-				{
-					"title": "1.4.2",
-					"useBoldText": true,
-					"useBottomMargin": true,
-					"class": "DepictionSubheaderView"
-				},
-				{
-					"markdown": "\t\n\u2022 同步官方更新",
-					"useSpacing": false,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">更新时间 2023/12/03</small>",
-					"useRawFormat": true,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"title": "1.4.1",
-					"useBoldText": true,
-					"useBottomMargin": true,
-					"class": "DepictionSubheaderView"
-				},
-				{
-					"markdown": "\t\n\u2022 同步官方更新 补全汉化",
-					"useSpacing": false,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">更新时间 2023/07/14</small>",
-					"useRawFormat": true,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"title": "1.4.0",
-					"useBoldText": true,
-					"useBottomMargin": true,
-					"class": "DepictionSubheaderView"
-				},
-				{
-					"markdown": "\t\n\u2022 同步官方更新",
-					"useSpacing": false,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">更新时间 2023/06/08</small>",
-					"useRawFormat": true,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"title": "1.3.1",
-					"useBoldText": true,
-					"useBottomMargin": true,
-					"class": "DepictionSubheaderView"
-				},
-				{
-					"markdown": "\t\n\u2022 同步官方更新",
-					"useSpacing": false,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">更新时间 2023/05/18</small>",
-					"useRawFormat": true,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"title": "1.3",
-					"useBoldText": true,
-					"useBottomMargin": true,
-					"class": "DepictionSubheaderView"
-				},
-				{
-					"markdown": "\t\n\u2022 初始版本",
-					"useSpacing": false,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">更新时间 2023/05/17</small>",
-					"useRawFormat": true,
-					"class": "DepictionMarkdownView"
-				}
-			],
-			"class": "DepictionStackView"
-		}
-	],
-	"class": "DepictionTabView"
+  "minVersion": "0.1",
+  "headerImage": "https://skypain.github.io/repo/src/others/hed.jpg",
+  "tintColor": "#3f4042",
+  "tabs": [
+    {
+      "tabname": "插件信息",
+      "views": [
+        {
+          "itemCornerRadius": 6,
+          "itemSize": "{320, 275.41333333333336}",
+          "screenshots": [
+            {
+              "accessibilityText": "img",
+              "url": "https://skypain.github.io/repo/src/kayoko/config/screenshots/s1.jpg",
+              "fullSizeURL": "https://skypain.github.io/repo/src/kayoko/config/screenshots/s1.jpg"
+            },
+            {
+              "accessibilityText": "img",
+              "url": "https://skypain.github.io/repo/src/kayoko/config/screenshots/s2.jpg",
+              "fullSizeURL": "https://skypain.github.io/repo/src/kayoko/config/screenshots/s2.jpg"
+            }
+          ],
+          "class": "DepictionScreenshotsView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "title": "简述",
+          "class": "DepictionHeaderView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "## kayoko Modified"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "基于Traurige和Lessica的开源项目 支持Rootless和Roothide"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Based on the open-source projects of Traurige and Lessica, supports Rootless and Roothide."
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "文本过滤功能请使用正则表达式 该版本未整合简体中文"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "title": "版本信息",
+          "class": "DepictionHeaderView"
+        },
+        {
+          "title": "最新版本",
+          "text": "2.0.0",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "更新时间",
+          "text": "2024/03/23",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "版本兼容",
+          "text": "Dopamine 15.0 - 15.4.1",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "插件大小",
+          "text": "118 kb",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "开发者",
+          "text": "Traurige&Lessica",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "spacing": 20,
+          "class": "DepictionSpacerView"
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "tabname": "更新日志",
+      "views": [
+        {
+          "title": "2.0.0",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\n\u2022 同步官方更新 添加文本过滤功能",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "markdown": "<small style=\"color: #999; margin-top: -8px;\">更新时间 2024/03/23</small>",
+          "useRawFormat": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "title": "1.4.2",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\n\u2022 同步官方更新",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "markdown": "<small style=\"color: #999; margin-top: -8px;\">更新时间 2023/12/03</small>",
+          "useRawFormat": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "title": "1.4.1",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\n\u2022 同步官方更新 补全汉化",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "markdown": "<small style=\"color: #999; margin-top: -8px;\">更新时间 2023/07/14</small>",
+          "useRawFormat": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "title": "1.4.0",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\n\u2022 同步官方更新",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "markdown": "<small style=\"color: #999; margin-top: -8px;\">更新时间 2023/06/08</small>",
+          "useRawFormat": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "title": "1.3.1",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\n\u2022 同步官方更新",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "markdown": "<small style=\"color: #999; margin-top: -8px;\">更新时间 2023/05/18</small>",
+          "useRawFormat": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "title": "1.3",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\n\u2022 初始版本",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "markdown": "<small style=\"color: #999; margin-top: -8px;\">更新时间 2023/05/17</small>",
+          "useRawFormat": true,
+          "class": "DepictionMarkdownView"
+        }
+      ],
+      "class": "DepictionStackView"
+    }
+  ],
+  "class": "DepictionTabView"
 }
