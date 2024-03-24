@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>2.0.1</version>
+		<change>添加1.0版本的通知以便第三方插件调用 文本过滤功能调整 在设置对正则表达式进行校验</change>
+	</changes>
+	<changes>
 		<version>2.0.0</version>
 		<change>同步官方更新 添加文本过滤功能</change>
 	</changes>

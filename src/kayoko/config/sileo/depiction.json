@@ -47,6 +47,10 @@
           "markdown": "文本过滤功能请使用正则表达式 该版本未整合简体中文"
         },
         {
+          "class": "DepictionMarkdownView",
+          "markdown": "最简单关键词过滤 例子: 关键词A|关键词B|关键词C"
+        },
+        {
           "class": "DepictionSeparatorView"
         },
         {
@@ -55,12 +59,12 @@
         },
         {
           "title": "最新版本",
-          "text": "2.0.0",
+          "text": "2.0.1",
           "class": "DepictionTableTextView"
         },
         {
           "title": "更新时间",
-          "text": "2024/03/23",
+          "text": "2024/03/24",
           "class": "DepictionTableTextView"
         },
         {
@@ -88,6 +92,22 @@
     {
       "tabname": "更新日志",
       "views": [
+        {
+          "title": "2.0.1",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\n\u2022 添加1.0版本的通知以便第三方插件调用 文本过滤功能调整 在设置对正则表达式进行校验",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "markdown": "<small style=\"color: #999; margin-top: -8px;\">更新时间 2024/03/24</small>",
+          "useRawFormat": true,
+          "class": "DepictionMarkdownView"
+        },
         {
           "title": "2.0.0",
           "useBoldText": true,
